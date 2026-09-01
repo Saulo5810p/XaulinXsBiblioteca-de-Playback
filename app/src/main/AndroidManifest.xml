@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="29" tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <attribution
+        android:tag="default"
+        android:label="@string/app_name" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MyApplication"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".playback.PlaybackService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback" />
+
+        <!-- Widget 1: Receiver Compact (4x2 Não Expansível) -->
+        <receiver
+            android:name=".widgets.ReceiverWidgetProvider"
+            android:exported="true"
+            android:label="Estúdio Receiver Compacto 4x2">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.example.widgets.ACTION_PLAY_PAUSE" />
+                <action android:name="com.example.widgets.ACTION_NEXT" />
+                <action android:name="com.example.widgets.ACTION_PREV" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/receiver_widget_info" />
+        </receiver>
+
+        <!-- Widget 2: Full Controls (4x3 Expansível) -->
+        <receiver
+            android:name=".widgets.FullControlsWidgetProvider"
+            android:exported="true"
+            android:label="Estúdio Hi-Fi Controles 4x3">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.example.widgets.FULL_PLAY_PAUSE" />
+                <action android:name="com.example.widgets.FULL_NEXT" />
+                <action android:name="com.example.widgets.FULL_PREV" />
+                <action android:name="com.example.widgets.FULL_REWIND" />
+                <action android:name="com.example.widgets.FULL_FFWD" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_full_controls_info" />
+        </receiver>
+
+        <!-- Widget 3: Queue & Up Next (4x3 Expansível) -->
+        <receiver
+            android:name=".widgets.QueueWidgetProvider"
+            android:exported="true"
+            android:label="Estúdio Fila &amp; Up Next 4x3">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.example.widgets.QUEUE_PLAY_PAUSE" />
+                <action android:name="com.example.widgets.QUEUE_NEXT" />
+                <action android:name="com.example.widgets.QUEUE_PREV" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_queue_info" />
+        </receiver>
+
+    </application>
+
+</manifest>

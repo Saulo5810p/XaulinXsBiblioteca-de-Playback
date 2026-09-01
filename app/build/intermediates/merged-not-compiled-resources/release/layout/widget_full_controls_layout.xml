@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_widget_receiver_panel"
+    android:padding="10dp">
+
+    <!-- Header bar -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CONTROLES DE PLAYBACK • MASTER HI-FI"
+            android:textColor="#C5A059"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/widget_status_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• STEREO ON"
+            android:textColor="#39FF14"
+            android:textSize="9sp"
+            android:textStyle="bold"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <!-- Main Album Art & Track Specs Screen -->
+    <LinearLayout
+        android:id="@+id/widget_display_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/bg_widget_display_box"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/widget_album_art"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher"
+            android:contentDescription="Capa do Álbum" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp">
+
+            <TextView
+                android:id="@+id/widget_track_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BIBLIOTECA DE PLAYBACK"
+                android:textColor="#39FF14"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:ellipsize="end"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/widget_artist_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hi-Fi Receiver Engine"
+                android:textColor="#FFD700"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:ellipsize="end"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/widget_codec_spec"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="24-BIT / 192KHZ • FLAC STUDIO"
+                android:textColor="#8A9BA8"
+                android:textSize="9sp"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/widget_extra_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SIGNAL LEVEL: -3.2dB • TUBE SATURATION"
+                android:textColor="#C5A059"
+                android:textSize="8sp"
+                android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Main Control Buttons Row 1 (Playback Navigation) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingTop="8dp">
+
+        <!-- Previous Button -->
+        <ImageButton
+            android:id="@+id/widget_btn_prev"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginEnd="6dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_prev"
+            android:contentDescription="Anterior"
+            android:padding="6dp" />
+
+        <!-- Rewind 10s Button -->
+        <ImageButton
+            android:id="@+id/widget_btn_rewind"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginEnd="6dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_rewind"
+            android:contentDescription="Voltar 10s"
+            android:padding="6dp" />
+
+        <!-- Play / Pause Master Center Button -->
+        <ImageButton
+            android:id="@+id/widget_btn_play"
+            android:layout_width="54dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginEnd="6dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_play"
+            android:contentDescription="Play/Pause"
+            android:padding="6dp" />
+
+        <!-- Fast Forward 10s Button -->
+        <ImageButton
+            android:id="@+id/widget_btn_ffwd"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:layout_marginRight="6dp"
+            android:layout_marginEnd="6dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_ffwd"
+            android:contentDescription="Avançar 10s"
+            android:padding="6dp" />
+
+        <!-- Next Button -->
+        <ImageButton
+            android:id="@+id/widget_btn_next"
+            android:layout_width="40dp"
+            android:layout_height="38dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_next"
+            android:contentDescription="Próxima"
+            android:padding="6dp" />
+    </LinearLayout>
+
+    <!-- Secondary Utility Row (Favorite & App Studio Launch) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingTop="6dp">
+
+        <ImageButton
+            android:id="@+id/widget_btn_favorite"
+            android:layout_width="38dp"
+            android:layout_height="32dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_favorite_border"
+            android:contentDescription="Favoritar"
+            android:padding="5dp" />
+
+        <ImageButton
+            android:id="@+id/widget_btn_repeat"
+            android:layout_width="38dp"
+            android:layout_height="32dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_repeat"
+            android:contentDescription="Repetir"
+            android:padding="5dp" />
+
+        <ImageButton
+            android:id="@+id/widget_btn_open"
+            android:layout_width="90dp"
+            android:layout_height="32dp"
+            android:background="@drawable/bg_widget_btn"
+            android:src="@drawable/ic_widget_studio"
+            android:contentDescription="Abrir Estúdio"
+            android:padding="5dp" />
+    </LinearLayout>
+
+</LinearLayout>

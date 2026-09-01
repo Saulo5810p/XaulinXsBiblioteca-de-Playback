@@ -1,0 +1,6 @@
+{
+  "name": "Repositório de PlayBack(RetroPlayer)",
+  "description": "Audio player Hi-Fi premium inspirado em receivers clássicos dos anos 70, 80 e 90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

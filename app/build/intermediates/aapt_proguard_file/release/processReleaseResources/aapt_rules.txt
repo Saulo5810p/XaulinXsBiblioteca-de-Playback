@@ -1,0 +1,9 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.startup.InitializationProvider { <init>(); }
+-keep class com.example.MainActivity { <init>(); }
+-keep class com.example.playback.PlaybackService { <init>(); }
+-keep class com.example.widgets.FullControlsWidgetProvider { <init>(); }
+-keep class com.example.widgets.QueueWidgetProvider { <init>(); }
+-keep class com.example.widgets.ReceiverWidgetProvider { <init>(); }

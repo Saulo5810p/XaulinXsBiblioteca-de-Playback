@@ -1,0 +1,1595 @@
+com.example.database.PlaybackDao
+android.support.v4.media.AudioAttributesImplApi21Parcelizer
+com.example.database.PlaybackDao_Impl$1
+androidx.profileinstaller.ProfileInstallReceiver
+androidx.core.graphics.drawable.IconCompatParcelizer
+android.support.v4.media.RatingCompat
+com.example.MainActivity
+androidx.compose.ui.layout.LayoutIdElement
+com.example.database.AppDatabase$Companion
+androidx.compose.foundation.lazy.layout.TraversablePrefetchStateModifierElement
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.lifecycle.ProcessLifecycleInitializer
+com.example.playback.PlaybackService
+androidx.compose.animation.EnterExitTransitionElement
+androidx.compose.foundation.text.modifiers.SelectableTextAnnotatedStringElement
+androidx.compose.foundation.layout.BoxChildDataElement
+android.support.v4.media.MediaMetadataCompat
+androidx.core.app.RemoteActionCompat
+androidx.compose.ui.layout.LayoutElement
+androidx.compose.foundation.layout.HorizontalAlignElement
+androidx.compose.ui.draw.DrawWithContentElement
+android.support.v4.media.MediaBrowserCompat$MediaItem
+androidx.compose.ui.draw.ShadowGraphicsLayerElement
+com.example.widgets.ReceiverWidgetProvider$Companion
+androidx.compose.foundation.lazy.layout.LazyLayoutItemAnimator$DisplayingDisappearingItemsElement
+androidx.compose.ui.draw.DrawBehindElement
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.compose.foundation.gestures.ScrollableElement
+androidx.compose.foundation.layout.UnspecifiedConstraintsElement
+androidx.compose.foundation.layout.OffsetElement
+androidx.compose.ui.input.nestedscroll.NestedScrollElement
+androidx.core.app.CoreComponentFactory
+androidx.core.graphics.drawable.IconCompat
+androidx.compose.ui.focus.FocusRequesterElement
+androidx.compose.ui.platform.DragAndDropModifierOnDragListener$modifier$1
+androidx.compose.foundation.layout.PaddingElement
+androidx.compose.ui.input.pointer.PointerHoverIconModifierElement
+androidx.compose.foundation.relocation.BringIntoViewRequesterElement
+com.example.database.PlaylistTrackCrossRef
+androidx.emoji2.text.EmojiCompatInitializer
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.compose.foundation.text.modifiers.TextStringSimpleElement
+androidx.annotation.Keep
+androidx.compose.ui.input.rotary.RotaryInputElement
+androidx.media.AudioAttributesImplBaseParcelizer
+com.example.database.PlaybackDao_Impl$2
+android.support.v4.media.AudioAttributesImplBaseParcelizer
+androidx.compose.foundation.text.input.internal.LegacyAdaptingPlatformTextInputModifier
+android.support.v4.media.MediaBrowserCompat$ItemReceiver
+androidx.compose.foundation.layout.IntrinsicWidthElement
+com.example.widgets.WidgetUpdateHelper
+com.example.database.AppDatabase
+android.support.v4.media.session.PlaybackStateCompat$CustomAction
+androidx.compose.foundation.layout.WrapContentElement
+androidx.compose.foundation.layout.SizeElement
+androidx.compose.foundation.text.handwriting.StylusHandwritingElementWithNegativePadding
+android.support.v4.media.session.MediaSessionCompat$Token
+androidx.versionedparcelable.ParcelImpl
+com.example.model.EqualizerBand
+androidx.compose.foundation.CombinedClickableElement
+androidx.lifecycle.ProcessLifecycleOwner$attach$1
+android.support.v4.app.RemoteActionCompatParcelizer
+android.support.v4.media.session.MediaControllerCompat$MediaControllerImplApi21$ExtraBinderRequestResultReceiver
+androidx.lifecycle.SavedStateHandlesVM
+androidx.compose.foundation.BorderModifierNodeElement
+com.example.model.PlaybackState
+androidx.profileinstaller.ProfileInstallerInitializer
+android.support.v4.media.MediaBrowserCompat$CustomActionResultReceiver
+androidx.compose.foundation.layout.FillElement
+androidx.media.AudioAttributesCompatParcelizer
+androidx.compose.foundation.BackgroundElement
+com.example.viewmodel.PlaybackViewModel
+okhttp3.internal.publicsuffix.PublicSuffixDatabase
+com.example.database.TrackEntity
+androidx.compose.ui.semantics.EmptySemanticsElement
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1
+androidx.compose.foundation.HoverableElement
+androidx.lifecycle.ReportFragment
+com.example.widgets.QueueWidgetProvider$Companion
+android.support.v4.media.session.PlaybackStateCompat
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper
+com.example.ui.effects.CinematicShader
+androidx.startup.InitializationProvider
+android.support.v4.media.AudioAttributesImplApi26Parcelizer
+androidx.compose.ui.focus.FocusChangedElement
+com.example.database.PlaybackDao_Impl$4
+com.example.database.PlaybackDao_Impl
+androidx.media.AudioAttributesImplApi21Parcelizer
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+androidx.compose.foundation.ClickableElement
+androidx.compose.foundation.text.modifiers.TextAnnotatedStringElement
+androidx.compose.ui.layout.OnSizeChangedModifier
+androidx.compose.ui.focus.FocusOwnerImpl$modifier$2
+androidx.media.AudioAttributesImplApi26Parcelizer
+androidx.media.AudioAttributesImplApi26
+com.example.database.PlaybackDao_Impl$Companion
+androidx.media.AudioAttributesImplApi21
+com.example.widgets.FullControlsWidgetProvider$Companion
+androidx.compose.ui.focus.FocusPropertiesElement
+androidx.compose.foundation.lazy.layout.LazyLayoutSemanticsModifier
+com.example.widgets.FullControlsWidgetProvider
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback
+androidx.graphics.path.PathIteratorPreApi34Impl
+androidx.compose.ui.layout.OnGloballyPositionedElement
+androidx.compose.ui.semantics.AppendedSemanticsElement
+androidx.compose.ui.input.pointer.SuspendPointerInputElement
+androidx.compose.ui.graphics.BlockGraphicsLayerElement
+androidx.compose.foundation.ScrollingLayoutElement
+android.support.v4.media.MediaBrowserCompat$SearchResultReceiver
+androidx.compose.ui.graphics.GraphicsLayerElement
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1
+androidx.versionedparcelable.CustomVersionedParcelable
+com.example.model.RepeatMode
+androidx.compose.ui.draw.PainterElement
+android.support.v4.media.AudioAttributesCompatParcelizer
+com.example.database.PlaylistEntity
+androidx.core.app.RemoteActionCompatParcelizer
+com.example.database.PlaybackDao_Impl$3
+com.example.widgets.QueueWidgetProvider
+androidx.compose.foundation.layout.LayoutWeightElement
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1
+androidx.compose.ui.draw.DrawWithCacheElement
+androidx.compose.foundation.MagnifierElement
+androidx.media.AudioAttributesImpl
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation
+androidx.compose.foundation.ScrollSemanticsElement
+com.example.widgets.ReceiverWidgetProvider
+androidx.compose.ui.semantics.ClearAndSetSemanticsElement
+androidx.compose.foundation.FocusableElement
+android.support.v4.media.session.ParcelableVolumeInfo
+androidx.graphics.path.ConicConverter
+androidx.compose.foundation.IndicationModifierElement
+androidx.compose.material3.internal.DraggableAnchorsElement
+androidx.media.AudioAttributesCompat
+com.example.model.Playlist
+android.support.v4.media.MediaDescriptionCompat
+androidx.compose.ui.input.key.KeyInputElement
+com.example.model.Track
+androidx.compose.foundation.gestures.DraggableElement
+androidx.compose.foundation.layout.PaddingValuesElement
+androidx.compose.material3.MinimumInteractiveModifier
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+androidx.media.AudioAttributesImplBase
+com.example.database.AppDatabase_Impl
+android.support.v4.media.session.MediaSessionCompat$QueueItem
+androidx.room.MultiInstanceInvalidationService
+com.example.model.Track: int bitrateKbps
+com.example.model.Track: java.lang.String album
+com.example.model.PlaybackState: int queueIndex
+com.example.model.RepeatMode: com.example.model.RepeatMode ALL
+androidx.room.RoomDatabase: androidx.room.support.AutoCloser autoCloser
+com.example.widgets.FullControlsWidgetProvider: com.example.widgets.FullControlsWidgetProvider$Companion Companion
+kotlinx.coroutines.CancelledContinuation: int _resumed$volatile
+com.example.model.RepeatMode: com.example.model.RepeatMode[] $VALUES
+kotlin.coroutines.SafeContinuation: java.lang.Object result
+kotlinx.coroutines.channels.BufferedChannel: long completedExpandBuffersAndPauseFlag$volatile
+com.example.model.PlaybackState: com.example.model.Track currentTrack
+com.example.database.PlaylistTrackCrossRef: long trackId
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed$volatile
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+androidx.activity.result.ActivityResult: android.os.Parcelable$Creator CREATOR
+com.example.database.PlaybackDao_Impl: androidx.room.EntityDeleteOrUpdateAdapter __deleteAdapterOfPlaylistEntity
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted$volatile
+com.example.model.PlaybackState: float volumeLevel
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask$volatile
+com.example.widgets.FullControlsWidgetProvider: java.lang.String ACTION_PREV
+com.example.model.PlaybackState: long totalDurationMs
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object owner$volatile
+com.example.widgets.ReceiverWidgetProvider: com.example.widgets.ReceiverWidgetProvider$Companion Companion
+com.example.model.Track: boolean isFavorite
+com.example.database.TrackEntity: int sampleRateHz
+androidx.room.RoomDatabase: kotlin.coroutines.CoroutineContext transactionContext
+com.example.model.EqualizerBand: short bandIndex
+com.example.database.PlaybackDao_Impl: androidx.room.EntityInsertAdapter __insertAdapterOfPlaylistEntity
+android.support.v4.media.session.MediaSessionCompat$Token: android.os.Parcelable$Creator CREATOR
+com.example.playback.PlaybackService: android.support.v4.media.session.MediaSessionCompat mediaSession
+com.example.database.PlaybackDao_Impl: androidx.room.EntityInsertAdapter __insertAdapterOfPlaylistTrackCrossRef
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder$volatile
+com.example.widgets.FullControlsWidgetProvider: java.lang.String ACTION_PLAY_PAUSE
+com.example.widgets.FullControlsWidgetProvider: java.lang.String ACTION_FFWD
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+com.example.model.Track: long id
+android.support.v4.media.session.PlaybackStateCompat$CustomAction: android.os.Parcelable$Creator CREATOR
+com.example.model.Track: long durationMs
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state$volatile
+com.example.widgets.ReceiverWidgetProvider: java.lang.String ACTION_WIDGET_PLAY_PAUSE
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+androidx.room.RoomDatabase: boolean allowMainThreadQueries
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer$volatile
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next$volatile
+com.example.model.Track: java.lang.String lyrics
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _next$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableFloatState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers$volatile
+androidx.room.RoomDatabase: androidx.room.RoomDatabase$Companion Companion
+com.example.model.EqualizerBand: short maxLevelMb
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl$volatile
+com.example.database.PlaybackDao_Impl: androidx.room.RoomDatabase __db
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated$volatile
+com.example.model.RepeatMode: kotlin.enums.EnumEntries $ENTRIES
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev$volatile
+androidx.room.RoomDatabase: java.lang.ThreadLocal suspendingTransactionId
+com.example.widgets.WidgetUpdateHelper: int $stable
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object closeHandler$volatile
+kotlinx.coroutines.channels.BufferedChannel: long receivers$volatile
+com.example.database.AppDatabase: com.example.database.AppDatabase$Companion Companion
+com.example.database.TrackEntity: long durationMs
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: int _availablePermits$volatile
+kotlinx.coroutines.internal.Segment: int cleanedAndPointers$volatile
+com.example.model.PlaybackState: java.util.List queue
+com.example.playback.PlaybackService: java.lang.String ACTION_TOGGLE_PLAY_PAUSE
+com.example.model.PlaybackState: long currentPositionMs
+com.example.playback.PlaybackService: com.example.playback.AudioEngine audioEngine
+android.support.v4.media.MediaBrowserCompat$MediaItem: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state$volatile
+com.example.widgets.ReceiverWidgetProvider: java.lang.String ACTION_WIDGET_PREV
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.example.playback.PlaybackService: com.example.model.Track currentTrack
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: androidx.lifecycle.ProcessLifecycleOwner this$0
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+androidx.room.RoomOpenDelegate: int version
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: com.example.database.AppDatabase_Impl this$0
+kotlinx.coroutines.JobSupport: java.lang.Object _state$volatile
+com.example.model.Track: java.lang.String dataPath
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur$volatile
+kotlinx.coroutines.InvokeOnCancelling: int _invoked$volatile
+kotlinx.coroutines.channels.BufferedChannel: long sendersAndCloseStatus$volatile
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting$volatile
+com.example.database.TrackEntity: java.lang.String albumArtUri
+kotlinx.coroutines.CancellableContinuationImpl: int _decisionAndIndex$volatile
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.example.model.Track: int sampleRateHz
+android.support.v4.media.session.ParcelableVolumeInfo: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteDatabase mDatabase
+com.example.database.AppDatabase_Impl: kotlin.Lazy _playbackDao
+androidx.compose.runtime.ParcelableSnapshotMutableState: android.os.Parcelable$Creator CREATOR
+android.support.v4.media.session.MediaSessionCompat$ResultReceiverWrapper: android.os.Parcelable$Creator CREATOR
+com.example.playback.PlaybackService: java.lang.String ACTION_NEXT
+com.example.widgets.QueueWidgetProvider: int $stable
+com.example.model.PlaybackState: int sleepTimerRemainingSec
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long enqIdx$volatile
+com.example.database.PlaylistTrackCrossRef: int orderPosition
+com.example.model.EqualizerBand: int $stable
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object head$volatile
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size$volatile
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object bufferEndSegment$volatile
+com.example.ui.effects.CinematicShader: java.lang.String AGSL_CINEMATIC_MASTER
+com.example.database.PlaylistEntity: java.lang.String name
+com.example.widgets.WidgetUpdateHelper: com.example.widgets.WidgetUpdateHelper INSTANCE
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.example.model.Track: java.lang.String artist
+com.example.playback.PlaybackService: java.lang.String ACTION_REWIND_10S
+com.example.database.TrackEntity: java.lang.String folderPath
+com.example.widgets.QueueWidgetProvider: java.lang.String ACTION_PREV
+com.example.ui.effects.CinematicShader: int $stable
+com.example.widgets.QueueWidgetProvider: java.lang.String ACTION_PLAY_PAUSE
+com.example.database.PlaybackDao_Impl: int $stable
+android.support.v4.os.ResultReceiver: android.os.Parcelable$Creator CREATOR
+com.example.model.RepeatMode: com.example.model.RepeatMode OFF
+androidx.room.RoomDatabase: boolean useTempTrackingTable
+com.example.database.AppDatabase: com.example.database.AppDatabase INSTANCE
+com.example.database.PlaylistEntity: long createdAt
+com.example.widgets.FullControlsWidgetProvider: java.lang.String ACTION_NEXT
+com.example.database.PlaybackDao_Impl: androidx.room.EntityInsertAdapter __insertAdapterOfTrackEntity
+com.example.model.Playlist: java.lang.String name
+com.example.model.PlaybackState: int $stable
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalQueryExecutor
+com.example.widgets.QueueWidgetProvider: java.lang.String ACTION_NEXT
+com.example.database.TrackEntity: java.lang.String artist
+com.example.database.PlaybackDao_Impl: com.example.database.PlaybackDao_Impl$Companion Companion
+com.example.model.RepeatMode: com.example.model.RepeatMode ONE
+android.support.v4.media.RatingCompat: android.os.Parcelable$Creator CREATOR
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker internalTracker
+android.support.v4.media.MediaDescriptionCompat: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef$volatile
+androidx.room.RoomDatabase: java.util.Map typeConverters
+com.example.model.Track: java.lang.String title
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 onTogglePlayPause
+com.example.playback.PlaybackService: java.lang.String ACTION_PREVIOUS
+com.example.database.AppDatabase_Impl: int $stable
+coil.memory.MemoryCache$Key: android.os.Parcelable$Creator CREATOR
+com.example.database.AppDatabase: int $stable
+com.example.model.PlaybackState: java.lang.String selectedPresetName
+androidx.room.RoomDatabase: java.util.List mCallbacks
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: long deqIdx$volatile
+com.example.model.Playlist: int trackCount
+com.example.widgets.ReceiverWidgetProvider: int $stable
+androidx.room.RoomDatabase: kotlinx.coroutines.CoroutineScope coroutineScope
+com.example.playback.PlaybackService: java.lang.String CHANNEL_ID
+com.example.model.Track: java.lang.String folderPath
+com.example.database.TrackEntity: java.lang.String title
+com.example.database.TrackEntity: java.lang.String codec
+com.example.database.TrackEntity: int $stable
+kotlinx.coroutines.channels.BufferedChannel: long bufferEnd$volatile
+com.example.model.Track: java.lang.String codec
+kotlinx.coroutines.sync.SemaphoreAndMutexImpl: java.lang.Object tail$volatile
+com.example.database.PlaylistEntity: int $stable
+com.example.playback.PlaybackService: java.lang.String ACTION_PLAY
+com.example.playback.PlaybackService: int $stable
+com.example.database.TrackEntity: java.lang.String lyrics
+android.support.v4.media.MediaMetadataCompat: android.os.Parcelable$Creator CREATOR
+com.example.ui.effects.CinematicShader: com.example.ui.effects.CinematicShader INSTANCE
+com.example.playback.PlaybackService: boolean isPlayingState
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack$volatile
+androidx.room.RoomDatabase: int MAX_BIND_PARAMETER_CNT
+com.example.model.PlaybackState: boolean isPlaying
+com.example.database.PlaylistTrackCrossRef: int $stable
+com.example.model.PlaybackState: float audioAmplitudeRight
+com.example.database.TrackEntity: int playCount
+com.example.model.Track: int $stable
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object _closeCause$volatile
+kotlinx.coroutines.ThreadState: int _state$volatile
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 onNext
+com.example.database.PlaylistEntity: long id
+com.example.model.Track: int playCount
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState$volatile
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+com.example.database.TrackEntity: long dateAdded
+kotlinx.coroutines.CompletedExceptionally: int _handled$volatile
+com.example.widgets.QueueWidgetProvider: com.example.widgets.QueueWidgetProvider$Companion Companion
+com.example.database.TrackEntity: boolean isFavorite
+com.example.model.PlaybackState: float audioAmplitudeLeft
+com.example.playback.PlaybackService: java.lang.String ACTION_FFWD_10S
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex$volatile
+com.example.widgets.FullControlsWidgetProvider: int $stable
+androidx.room.RoomOpenDelegate: java.lang.String legacyIdentityHash
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event$Companion Companion
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableIntState: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.UndispatchedCoroutine: boolean threadLocalIsSet
+android.support.v4.media.session.MediaSessionCompat$QueueItem: android.os.Parcelable$Creator CREATOR
+com.example.widgets.ReceiverWidgetProvider: java.lang.String ACTION_WIDGET_NEXT
+com.example.database.TrackEntity: int bitrateKbps
+com.example.model.PlaybackState: boolean isShuffle
+com.example.widgets.FullControlsWidgetProvider: java.lang.String ACTION_REWIND
+com.example.model.Track: long dateAdded
+androidx.room.RoomDatabase: androidx.room.concurrent.CloseBarrier closeBarrier
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object sendSegment$volatile
+kotlinx.coroutines.DispatchedCoroutine: int _decision$volatile
+com.example.model.Track: java.lang.String albumArtUri
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: androidx.lifecycle.ReportFragment$LifecycleCallbacks$Companion Companion
+com.example.database.PlaylistTrackCrossRef: long playlistId
+androidx.activity.result.IntentSenderRequest: android.os.Parcelable$Creator CREATOR
+com.example.model.Playlist: long createdAt
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 onPrevious
+android.support.v4.media.session.PlaybackStateCompat: android.os.Parcelable$Creator CREATOR
+com.example.model.EqualizerBand: short minLevelMb
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue$volatile
+com.example.model.PlaybackState: com.example.model.RepeatMode repeatMode
+com.example.model.Track: int bitsPerSample
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+com.example.model.Playlist: long id
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state$volatile
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.example.model.EqualizerBand: short currentLevelMb
+com.example.playback.PlaybackService: java.lang.String ACTION_PAUSE
+com.example.database.TrackEntity: long id
+com.example.model.PlaybackState: short bassBoostStrength
+com.example.model.PlaybackState: short virtualizerStrength
+com.example.database.TrackEntity: java.lang.String dataPath
+com.example.database.TrackEntity: java.lang.String album
+androidx.compose.foundation.lazy.layout.DefaultLazyKey: android.os.Parcelable$Creator CREATOR
+com.example.database.TrackEntity: int bitsPerSample
+com.example.playback.PlaybackService: com.example.playback.PlaybackService$LocalBinder binder
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.example.playback.PlaybackService: java.lang.String ACTION_STOP
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _parentHandle$volatile
+com.example.playback.PlaybackService: int NOTIFICATION_ID
+kotlinx.coroutines.internal.ConcurrentLinkedListNode: java.lang.Object _prev$volatile
+androidx.compose.runtime.ParcelableSnapshotMutableLongState: android.os.Parcelable$Creator CREATOR
+androidx.room.RoomDatabase: androidx.room.RoomConnectionManager connectionManager
+androidx.room.RoomOpenDelegate: java.lang.String identityHash
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+kotlin.SafePublicationLazyImpl: java.lang.Object _value
+com.example.model.EqualizerBand: int centerFrequencyHz
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation$volatile
+com.example.model.Playlist: int $stable
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.example.playback.PlaybackService: com.example.playback.PlaybackService$Companion Companion
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next$volatile
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause$volatile
+kotlinx.coroutines.channels.BufferedChannel: java.lang.Object receiveSegment$volatile
+androidx.room.RoomDatabase: java.util.concurrent.Executor internalTransactionExecutor
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle$volatile
+androidx.room.RoomDatabase: void access$onClosed(androidx.room.RoomDatabase)
+com.example.database.PlaylistEntity: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: void setShowLayoutBounds(boolean)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: java.io.FileDescriptor dup(java.io.FileDescriptor)
+com.example.database.TrackEntity: java.lang.String component4()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.layout.Placeable$PlacementScope getPlacementScope()
+androidx.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.example.model.Track: java.lang.String component7()
+com.example.database.PlaylistTrackCrossRef: PlaylistTrackCrossRef(long,long,int)
+androidx.room.RoomDatabase: androidx.room.RoomOpenDelegateMarker createOpenDelegate()
+com.example.database.TrackEntity: java.lang.String getFolderPath()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.example.database.AppDatabase_Impl: void clearAllTables()
+com.example.model.Track: long getDateAdded()
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction[] values()
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void onCreate(androidx.sqlite.SQLiteConnection)
+com.example.database.TrackEntity: com.example.database.TrackEntity copy$default(com.example.database.TrackEntity,long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String,int,java.lang.Object)
+androidx.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+androidx.room.RoomDatabase: void runInTransaction(java.lang.Runnable)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: long getPosition(android.media.session.PlaybackState)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPaused(android.app.Activity)
+com.example.model.RepeatMode: kotlin.enums.EnumEntries getEntries()
+androidx.compose.ui.window.Api33Impl: android.window.OnBackInvokedCallback createBackCallback(kotlin.jvm.functions.Function0)
+com.example.model.Track: long component1()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand valueOf(java.lang.String)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int,boolean)
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl20)
+androidx.compose.ui.text.android.StaticLayoutFactoryImpl: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isVisible(int)
+androidx.compose.ui.text.android.Paint29: void getTextBounds(android.graphics.Paint,java.lang.CharSequence,int,int,android.graphics.Rect)
+com.example.model.PlaybackState: PlaybackState()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: java.util.List getCustomActions(android.media.session.PlaybackState)
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: void performHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.HandwritingGesture,androidx.compose.ui.platform.ViewConfiguration,java.util.concurrent.Executor,java.util.function.IntConsumer,kotlin.jvm.functions.Function1)
+com.example.model.Track: com.example.model.Track copy$default(com.example.model.Track,long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String,int,java.lang.Object)
+com.example.model.Track: java.lang.String component4()
+com.example.database.PlaybackDao: java.lang.Object getTracksByFileName(java.lang.String,kotlin.coroutines.Continuation)
+androidx.room.EntityDeleteOrUpdateAdapter: int handleMultiple(androidx.sqlite.SQLiteConnection,java.lang.Object[])
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+com.example.database.PlaybackDao_Impl$2: java.lang.String createQuery()
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.media.app.NotificationCompat$Api34Impl: android.app.Notification$MediaStyle setRemotePlaybackInfo(android.app.Notification$MediaStyle,java.lang.CharSequence,int,android.app.PendingIntent,java.lang.Boolean)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,float,float,float,float)
+com.example.database.PlaybackDao: java.lang.Object deleteAllTracks(kotlin.coroutines.Continuation)
+android.support.v4.media.RatingCompat$Api19Impl: android.media.Rating newPercentageRating(float)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: android.media.MediaDescription build(android.media.MediaDescription$Builder)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: void setInsets(int,androidx.core.graphics.Insets)
+android.support.v4.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+com.example.model.Track: int getBitsPerSample()
+androidx.compose.material3.ModalBottomSheetDialogLayout$Api33Impl: android.window.OnBackInvokedCallback createBackCallback(kotlin.jvm.functions.Function0)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: java.lang.CharSequence getTitle(android.media.MediaDescription)
+androidx.compose.ui.scrollcapture.ScrollCapture: void onScrollCaptureSearch(android.view.View,androidx.compose.ui.semantics.SemanticsOwner,kotlin.coroutines.CoroutineContext,java.util.function.Consumer)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.Path)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateY()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl30: void copyRootViewBounds(android.view.View)
+com.example.model.PlaybackState: long component4()
+com.example.model.EqualizerBand: EqualizerBand(short,int,short,short,short)
+androidx.room.Transactor$SQLiteTransactionType: androidx.room.Transactor$SQLiteTransactionType[] values()
+com.example.database.PlaybackDao: java.lang.Object removeTrackFromPlaylist(long,long,kotlin.coroutines.Continuation)
+com.example.model.PlaybackState: int component13()
+androidx.room.RoomDatabase: void clearAllTables()
+com.example.database.PlaybackDao_Impl: java.lang.Object getTrackById(long,kotlin.coroutines.Continuation)
+androidx.room.RoomOpenDelegate: java.lang.String getLegacyIdentityHash()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setErrorMessage(android.media.session.PlaybackState$Builder,java.lang.CharSequence)
+androidx.compose.ui.window.Api33Impl: void maybeRegisterBackCallback(android.view.View,java.lang.Object)
+com.example.database.PlaylistTrackCrossRef: long component2()
+com.example.database.PlaybackDao_Impl: kotlin.Unit insertTracks$lambda$0(com.example.database.PlaybackDao_Impl,java.util.List,androidx.sqlite.SQLiteConnection)
+com.example.model.RepeatMode: com.example.model.RepeatMode[] $values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallback(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture)
+com.example.widgets.ReceiverWidgetProvider$Companion: ReceiverWidgetProvider$Companion()
+com.example.model.PlaybackState: short component12()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.TextToolbar getTextToolbar()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.AutofillTree getAutofillTree()
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onCreateVirtualViewTranslationRequests(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,long[],int[],java.util.function.Consumer)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: long lseek(java.io.FileDescriptor,long,int)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.Density getDensity()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void registerOnBackInvokedCallback(java.lang.Object,int,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidAccessibilityManager getAccessibilityManager()
+com.example.database.PlaybackDao_Impl: kotlinx.coroutines.flow.Flow getTracksForPlaylist(long)
+androidx.activity.EdgeToEdgeApi29: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewAppeared(android.view.contentcapture.ContentCaptureSession,android.view.ViewStructure)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api24Impl: void addSetProgressAction(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+com.example.model.Playlist: int getTrackCount()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillAlpha(float)
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior valueOf(java.lang.String)
+com.example.database.TrackEntity: java.lang.String component11()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+com.example.model.EqualizerBand: short getCurrentLevelMb()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: androidx.core.view.WindowInsetsCompat build()
+com.example.model.Track: java.lang.String getTitle()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+androidx.compose.material3.MinimumInteractiveModifier: MinimumInteractiveModifier()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathEnd()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent valueOf(java.lang.String)
+androidx.activity.EdgeToEdgeApi21: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.core.view.ViewCompat$Api28Impl: java.lang.CharSequence getAccessibilityPaneTitle(android.view.View)
+com.example.database.PlaybackDao_Impl$2: void bind(androidx.sqlite.SQLiteStatement,com.example.database.PlaylistEntity)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setActions(android.media.session.PlaybackState$Builder,long)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: android.media.session.PlaybackState$Builder createBuilder()
+com.example.database.PlaybackDao_Impl$3: PlaybackDao_Impl$3()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight[] values()
+coil.decode.DataSource: coil.decode.DataSource[] values()
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performSelectionOnLegacyTextField-8ffj60Q(long,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+com.example.model.Track: int hashCode()
+com.example.database.PlaylistTrackCrossRef: java.lang.String toString()
+androidx.compose.ui.platform.AbstractComposeView: void getShowLayoutBounds$annotations()
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.example.database.TrackEntity: java.lang.String toString()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorPeek(long)
+com.example.database.AppDatabase_Impl: androidx.room.RoomOpenDelegateMarker createOpenDelegate()
+com.example.model.RepeatMode: RepeatMode(java.lang.String,int)
+com.example.database.AppDatabase: void access$setINSTANCE$cp(com.example.database.AppDatabase)
+com.example.database.PlaylistEntity: com.example.database.PlaylistEntity copy(long,java.lang.String,long)
+com.example.model.PlaybackState: short getBassBoostStrength()
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+com.example.playback.PlaybackService: void initMediaSession()
+androidx.compose.ui.window.PopupLayout: kotlin.jvm.functions.Function2 getContent()
+androidx.room.RoomDatabase: android.database.Cursor query(java.lang.String,java.lang.Object[])
+androidx.compose.ui.platform.AbstractComposeView: void setParentCompositionContext(androidx.compose.runtime.CompositionContext)
+androidx.compose.ui.platform.ComposeView: java.lang.CharSequence getAccessibilityClassName()
+androidx.compose.foundation.text.input.internal.Api34LegacyPerformHandwritingGestureImpl: boolean previewHandwritingGesture(androidx.compose.foundation.text.LegacyTextFieldState,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.view.inputmethod.PreviewableHandwritingGesture,android.os.CancellationSignal)
+androidx.tracing.TraceApi29Impl: boolean isEnabled()
+android.support.v4.media.RatingCompat$Api19Impl: boolean isThumbUp(android.media.Rating)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState: int getChangingConfigurations()
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper getOpenHelper()
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+android.support.v4.media.MediaDescriptionCompat$Api23Impl: android.net.Uri getMediaUri(android.media.MediaDescription)
+androidx.room.RoomDatabase: boolean isOpen()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.hapticfeedback.HapticFeedback getHapticFeedBack()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.foundation.Api31Impl: android.widget.EdgeEffect create(android.content.Context,android.util.AttributeSet)
+com.example.playback.PlaybackService: void setOnPrevious(kotlin.jvm.functions.Function0)
+com.example.database.TrackEntity: int getBitrateKbps()
+androidx.media.AudioAttributesImplApi26: AudioAttributesImplApi26()
+com.example.database.PlaybackDao_Impl: kotlin.Unit deleteDemoTracks$lambda$12(java.lang.String,androidx.sqlite.SQLiteConnection)
+com.example.database.AppDatabase_Impl: AppDatabase_Impl()
+androidx.compose.ui.text.android.StaticLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.StaticLayout)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+androidx.room.EntityInsertAdapter: java.util.List insertAndReturnIdsList(androidx.sqlite.SQLiteConnection,java.util.Collection)
+androidx.compose.ui.text.android.AndroidLayoutApi34: int[] getRangeForRect$ui_text_release(androidx.compose.ui.text.android.TextLayout,android.graphics.RectF,int,kotlin.jvm.functions.Function2)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.window.PopupLayout: java.lang.String getTestTag()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getTranslateX()
+com.example.database.AppDatabase: com.example.database.AppDatabase access$getINSTANCE$cp()
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.compose.ui.graphics.WrapperVerificationHelperMethods: void setBlendMode-GB0RdKg(android.graphics.Paint,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+coil.size.Precision: coil.size.Precision valueOf(java.lang.String)
+androidx.room.RoomDatabase: void assertNotSuspendingTransaction()
+com.example.database.PlaybackDao_Impl: java.util.List getTracksForPlaylist$lambda$11(java.lang.String,long,androidx.sqlite.SQLiteConnection)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30(androidx.core.view.WindowInsetsCompat)
+com.example.database.PlaybackDao_Impl: java.lang.Object getTracksByFileName(java.lang.String,kotlin.coroutines.Continuation)
+coil.size.Scale: coil.size.Scale[] values()
+com.example.database.PlaybackDao_Impl: java.lang.Object getTrackByPath(java.lang.String,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void clearViewTranslationCallback(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.autofill.AutofillId newAutofillId(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,float,float,float,float)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection[] values()
+androidx.compose.ui.window.Api33Impl: void maybeUnregisterBackCallback(android.view.View,java.lang.Object)
+okhttp3.TlsVersion: okhttp3.TlsVersion[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: void setPathData(androidx.core.graphics.PathParser$PathDataNode[])
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.compose.ui.window.PopupLayout: int getDisplayWidth()
+com.example.model.PlaybackState: com.example.model.PlaybackState copy(com.example.model.Track,boolean,long,long,float,com.example.model.RepeatMode,boolean,float,float,java.lang.String,short,short,int,java.util.List,int)
+coil.decode.ExifOrientationPolicy: coil.decode.ExifOrientationPolicy[] values()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners get_viewTreeOwners()
+androidx.activity.ComponentActivity$Api33Impl: android.window.OnBackInvokedDispatcher getOnBackInvokedDispatcher(android.app.Activity)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathOffset()
+android.support.v4.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNodeDrawScope getSharedDrawScope()
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.RectF,android.graphics.Paint)
+androidx.core.view.WindowInsetsCompat$Impl29: void setStableInsets(androidx.core.graphics.Insets)
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 getOnPrevious()
+com.example.model.Track: java.lang.String component2()
+androidx.compose.ui.platform.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+androidx.core.view.WindowInsetsCompat$Impl: int hashCode()
+androidx.compose.ui.node.LayoutNode$UsageByParent: androidx.compose.ui.node.LayoutNode$UsageByParent[] values()
+com.example.widgets.ReceiverWidgetProvider: ReceiverWidgetProvider()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long,android.graphics.BlendMode)
+com.example.database.PlaylistEntity: java.lang.String component2()
+androidx.compose.ui.platform.AbstractComposeView: void getDisposeViewCompositionStrategy$annotations()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.layout.LayoutCoordinates getParentLayoutCoordinates()
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.example.database.PlaybackDao_Impl: kotlin.Unit addTrackToPlaylist$lambda$2(com.example.database.PlaybackDao_Impl,com.example.database.PlaylistTrackCrossRef,androidx.sqlite.SQLiteConnection)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: java.lang.CharSequence getDescription(android.media.MediaDescription)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void registerIn(android.app.Activity)
+androidx.compose.ui.text.style.ResolvedTextDirection: androidx.compose.ui.text.style.ResolvedTextDirection valueOf(java.lang.String)
+com.example.database.TrackEntity: java.lang.String component2()
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+androidx.compose.ui.platform.RenderNodeApi29VerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void applyInsetTypes()
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle[] values()
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction valueOf(java.lang.String)
+androidx.room.RoomDatabase: void assertNotMainThread()
+com.example.ui.effects.CinematicProfile: com.example.ui.effects.CinematicProfile valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: int getDisplayHeight()
+com.example.model.PlaybackState: boolean isShuffle()
+androidx.compose.ui.platform.AbstractComposeView: void setViewCompositionStrategy(androidx.compose.ui.platform.ViewCompositionStrategy)
+androidx.compose.ui.graphics.layer.ViewLayer: androidx.compose.ui.graphics.CanvasHolder getCanvasHolder()
+androidx.core.view.ViewCompat$Api21Impl$1: android.view.WindowInsets onApplyWindowInsets(android.view.View,android.view.WindowInsets)
+androidx.room.RoomDatabase: java.util.Map getRequiredTypeConverterClasses()
+androidx.compose.ui.platform.AndroidComposeView: void setDensity(androidx.compose.ui.unit.Density)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getAmbientShadowColor(android.view.RenderNode)
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+com.example.widgets.FullControlsWidgetProvider$Companion: android.app.PendingIntent getPendingBroadcast(android.content.Context,java.lang.String,int)
+android.support.v4.media.session.PlaybackStateCompat$Api22Impl: android.os.Bundle getExtras(android.media.session.PlaybackState)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.example.database.PlaybackDao_Impl$2: PlaybackDao_Impl$2()
+com.example.database.PlaylistTrackCrossRef: long getTrackId()
+androidx.room.RoomDatabase: kotlin.coroutines.CoroutineContext getQueryContext()
+androidx.compose.ui.platform.AbstractComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.ui.platform.AndroidComposeViewAssistHelperMethodsO: void setClassName(android.view.ViewStructure,android.view.View)
+androidx.compose.ui.text.android.selection.Api34SegmentFinder: android.text.SegmentFinder toAndroidSegmentFinder$ui_text_release(androidx.compose.ui.text.android.selection.SegmentFinder)
+androidx.compose.ui.graphics.CanvasZHelper: void enableZ(android.graphics.Canvas,boolean)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: float getPlaybackSpeed(android.media.session.PlaybackState)
+androidx.compose.ui.platform.AndroidComposeView: boolean getShowLayoutBounds()
+com.example.model.EqualizerBand: int hashCode()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeColor(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void onPreMigrate(androidx.sqlite.SQLiteConnection)
+androidx.core.view.ViewCompat$Api29Impl: android.view.View$AccessibilityDelegate getAccessibilityDelegate(android.view.View)
+androidx.compose.ui.text.android.StaticLayoutFactory26: void setJustificationMode(android.text.StaticLayout$Builder,int)
+androidx.room.RoomDatabase: java.lang.Object useConnection$room_runtime_release(boolean,kotlin.jvm.functions.Function2,kotlin.coroutines.Continuation)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setBufferedPosition(android.media.session.PlaybackState$Builder,long)
+androidx.compose.ui.graphics.layer.ViewLayer: android.view.View getOwnerView()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeDisplayCutout()
+com.example.widgets.ReceiverWidgetProvider$Companion: void updateAppWidget(android.content.Context,android.appwidget.AppWidgetManager,int,com.example.model.Track,boolean)
+com.example.model.EqualizerBand: void setCurrentLevelMb(short)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority valueOf(java.lang.String)
+androidx.compose.ui.platform.AbstractComposeView: void setTransitionGroup(boolean)
+com.example.widgets.FullControlsWidgetProvider$Companion: FullControlsWidgetProvider$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.AbstractComposeView: void setPreviousAttachedWindowToken(android.os.IBinder)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.FontFamily$Resolver getFontFamilyResolver()
+com.example.viewmodel.PlaybackViewModel: PlaybackViewModel(android.app.Application)
+androidx.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+com.example.database.PlaylistTrackCrossRef: long getPlaylistId()
+androidx.compose.ui.text.input.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getHolderToLayoutNode()
+com.example.database.TrackEntity: com.example.database.TrackEntity copy(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: androidx.core.view.WindowInsetsCompat build()
+com.example.database.AppDatabase: com.example.database.PlaybackDao playbackDao()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy[] values()
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void onPostMigrate(androidx.sqlite.SQLiteConnection)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult valueOf(java.lang.String)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus valueOf(java.lang.String)
+com.example.database.AppDatabase$Companion: AppDatabase$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidViewsHandler: java.util.HashMap getLayoutNodeToHolder()
+androidx.compose.ui.window.PopupLayout: void getParams$ui_release$annotations()
+com.example.model.PlaybackState: java.lang.String component10()
+androidx.room.RoomDatabase: androidx.room.concurrent.CloseBarrier getCloseBarrier$room_runtime_release()
+com.example.widgets.FullControlsWidgetProvider: FullControlsWidgetProvider()
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setTextStyle(android.view.ViewStructure,float,int,int,int)
+androidx.media.AudioAttributesImplBaseParcelizer: androidx.media.AudioAttributesImplBase read(androidx.versionedparcelable.VersionedParcel)
+com.example.database.PlaybackDao_Impl: PlaybackDao_Impl(androidx.room.RoomDatabase)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.activity.ComponentActivity: void setContentView(android.view.View)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateY(float)
+androidx.room.EntityDeleteOrUpdateAdapter: int handleMultiple(androidx.sqlite.SQLiteConnection,java.lang.Iterable)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidClipboardManager getClipboardManager()
+androidx.compose.ui.text.android.BoringLayoutFactory33: boolean isFallbackLineSpacingEnabled(android.text.BoringLayout)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.media.AudioAttributesImplApi21Parcelizer: androidx.media.AudioAttributesImplApi21 read(androidx.versionedparcelable.VersionedParcel)
+androidx.core.view.ViewCompat$Api21Impl$1: ViewCompat$Api21Impl$1(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.room.EntityInsertAdapter: long[] insertAndReturnIdsArray(androidx.sqlite.SQLiteConnection,java.util.Collection)
+com.example.database.PlaybackDao_Impl: java.util.List getAllPlaylists$lambda$10(java.lang.String,androidx.sqlite.SQLiteConnection)
+androidx.room.RoomDatabase: void getMDatabase$annotations()
+com.example.database.TrackEntity: long getId()
+androidx.appcompat.resources.Compatibility$Api21Impl: android.graphics.drawable.Drawable createFromXmlInner(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+androidx.compose.ui.platform.ViewLayer: long getLayerId()
+com.example.database.TrackEntity: int getSampleRateHz()
+androidx.room.RoomDatabase: void setUseTempTrackingTable$room_runtime_release(boolean)
+com.example.database.TrackEntity: int component12()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleX()
+androidx.room.RoomDatabase: android.database.Cursor query$default(androidx.room.RoomDatabase,androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal,int,java.lang.Object)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,android.os.CancellationSignal)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostResumed(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityStopped(android.app.Activity)
+androidx.core.view.ViewCompat$Api30Impl: java.lang.CharSequence getStateDescription(android.view.View)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void resetPivot(android.view.View)
+androidx.compose.material.ripple.UnprojectedRipple$MRadiusHelper: void setRadius(android.graphics.drawable.RippleDrawable,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setStableInsets(androidx.core.graphics.Insets)
+android.support.v4.media.RatingCompat$Api19Impl: android.media.Rating newThumbRating(boolean)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isConsumed()
+com.example.model.Playlist: int hashCode()
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens valueOf(java.lang.String)
+androidx.room.RoomDatabase: java.util.Map getRequiredTypeConverterClassesMap$room_runtime_release()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl28)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float,float,android.graphics.RectF,float,float,android.graphics.Paint)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isDate(android.view.autofill.AutofillValue)
+android.support.v4.media.RatingCompat$Api19Impl: boolean isRated(android.media.Rating)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,java.lang.CharSequence,int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.core.view.ViewCompat$Api28Impl: boolean isAccessibilityHeading(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newVirtualViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getTappableElementInsets()
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingSlop(android.view.ViewConfiguration)
+com.example.database.TrackEntity: java.lang.String getDataPath()
+com.example.database.PlaybackDao_Impl: kotlin.Unit deleteAllTracks$lambda$13(java.lang.String,androidx.sqlite.SQLiteConnection)
+com.example.model.PlaybackState: int hashCode()
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+com.example.playback.PlaybackService: void setOnNext(kotlin.jvm.functions.Function0)
+androidx.media.app.NotificationCompat$Api21Impl: android.app.Notification$MediaStyle createMediaStyle()
+androidx.core.view.WindowInsetsCompat$Impl28: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+coil.decode.ExifOrientationPolicy: coil.decode.ExifOrientationPolicy valueOf(java.lang.String)
+com.example.database.TrackEntity: long getDateAdded()
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand valueOf(java.lang.String)
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: android.graphics.Matrix getLocalMatrix()
+androidx.room.RoomDatabase: kotlin.coroutines.CoroutineContext getTransactionContext$room_runtime_release()
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+com.example.database.PlaybackDao_Impl: java.lang.Object getPlaylistByName(java.lang.String,kotlin.coroutines.Continuation)
+com.example.database.PlaybackDao_Impl$4: PlaybackDao_Impl$4()
+androidx.compose.ui.window.PopupLayout: void setParentLayoutCoordinates(androidx.compose.ui.layout.LayoutCoordinates)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.example.database.AppDatabase_Impl: com.example.database.PlaybackDao_Impl _playbackDao$lambda$0(com.example.database.AppDatabase_Impl)
+androidx.compose.ui.platform.AndroidComposeView: void setConfigurationChangeObserver(kotlin.jvm.functions.Function1)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicWidthHeight[] values()
+com.example.database.PlaybackDao_Impl: kotlin.Unit updateLyrics$lambda$16(java.lang.String,java.lang.String,long,androidx.sqlite.SQLiteConnection)
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: AudioAttributesImplApi26Parcelizer()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: android.os.Bundle getExtras(android.media.session.PlaybackState$CustomAction)
+androidx.room.RoomDatabase: java.util.Set getRequiredAutoMigrationSpecs()
+androidx.compose.ui.text.android.BoringLayoutFactoryDefault: android.text.BoringLayout$Metrics isBoring(java.lang.CharSequence,android.text.TextPaint,android.text.TextDirectionHeuristic)
+com.example.database.PlaybackDao_Impl: com.example.database.TrackEntity getTrackByPath$lambda$7(java.lang.String,java.lang.String,androidx.sqlite.SQLiteConnection)
+androidx.core.view.WindowInsetsCompat$Impl20: void setRootViewData(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.TextToolbarHelperMethods: android.view.ActionMode startActionMode(android.view.View,android.view.ActionMode$Callback,int)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType valueOf(java.lang.String)
+com.example.model.PlaybackState: float component8()
+androidx.core.view.ViewCompat$Api23Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteOpenHelper createOpenHelper(androidx.room.DatabaseConfiguration)
+com.example.database.AppDatabase_Impl: java.util.List createAutoMigrations(java.util.Map)
+androidx.room.RoomDatabase: boolean inCompatibilityMode$room_runtime_release()
+com.example.database.PlaybackDao: kotlinx.coroutines.flow.Flow getAllPlaylists()
+com.example.model.PlaybackState: com.example.model.Track getCurrentTrack()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawDoubleRoundRect(android.graphics.Canvas,android.graphics.RectF,float[],android.graphics.RectF,float[],android.graphics.Paint)
+com.example.model.Playlist: Playlist(long,java.lang.String,long,int)
+com.example.model.Track: long component5()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotY()
+com.example.widgets.QueueWidgetProvider$Companion: void updateAllWidgets(android.content.Context,com.example.model.Track,boolean,java.util.List)
+com.example.model.PlaybackState: long getCurrentPositionMs()
+androidx.activity.Api34Impl: int swipeEdge(android.window.BackEvent)
+androidx.room.RoomDatabase: androidx.room.RoomConnectionManager createConnectionManager$room_runtime_release(androidx.room.DatabaseConfiguration)
+androidx.compose.ui.text.platform.Api28Impl: android.text.style.TypefaceSpan createTypefaceSpan(android.graphics.Typeface)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.Rect)
+androidx.compose.ui.text.AnnotationType: androidx.compose.ui.text.AnnotationType[] values()
+androidx.compose.foundation.FocusableKt$FocusableInNonTouchModeElement$1: FocusableKt$FocusableInNonTouchModeElement$1()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: androidx.core.graphics.PathParser$PathDataNode[] getPathData()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+com.example.model.Playlist: java.lang.String getName()
+com.example.database.PlaybackDao_Impl: java.lang.Object removeTrackFromPlaylist(long,long,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setSystemWindowInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption valueOf(java.lang.String)
+com.example.database.TrackEntity: java.lang.String getLyrics()
+kotlin.collections.AbstractMutableList: AbstractMutableList()
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState valueOf(java.lang.String)
+com.example.database.AppDatabase: AppDatabase()
+androidx.room.RoomDatabase: java.util.concurrent.Executor getQueryExecutor()
+androidx.compose.ui.platform.ComposeView: void getShouldCreateCompositionOnAttachedToWindow$annotations()
+com.example.model.EqualizerBand: com.example.model.EqualizerBand copy(short,int,short,short,short)
+androidx.compose.ui.window.PopupLayout: boolean getShouldCreateCompositionOnAttachedToWindow()
+com.example.widgets.QueueWidgetProvider$Companion: void updateAllWidgets$default(com.example.widgets.QueueWidgetProvider$Companion,android.content.Context,com.example.model.Track,boolean,java.util.List,int,java.lang.Object)
+androidx.compose.foundation.text.input.internal.Api34StartStylusHandwriting: void startStylusHandwriting(android.view.inputmethod.InputMethodManager,android.view.View)
+com.example.model.EqualizerBand: int component2()
+com.example.model.Track: java.lang.String getFolderPath()
+com.example.playback.PlaybackService: void setOnTogglePlayPause(kotlin.jvm.functions.Function0)
+com.example.widgets.ReceiverWidgetProvider: void onReceive(android.content.Context,android.content.Intent)
+com.example.ui.effects.CinematicShader: androidx.compose.ui.graphics.RenderEffect createComposeCinematicEffect$default(com.example.ui.effects.CinematicShader,float,float,float,float,float,float,float,int,java.lang.Object)
+androidx.compose.ui.platform.ViewLayer: float getCameraDistancePx()
+com.example.database.TrackEntity: java.lang.String component6()
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState valueOf(java.lang.String)
+androidx.compose.ui.graphics.layer.ViewLayer: boolean getCanUseCompositingLayer$ui_graphics_release()
+okhttp3.Protocol: okhttp3.Protocol[] values()
+com.example.model.Track: int component12()
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void onOpen(androidx.sqlite.SQLiteConnection)
+com.example.ui.effects.CinematicShader: CinematicShader()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: long getBufferedPosition(android.media.session.PlaybackState)
+androidx.media.app.NotificationCompat$Api21Impl: android.app.Notification$MediaStyle fillInMediaStyle(android.app.Notification$MediaStyle,int[],android.support.v4.media.session.MediaSessionCompat$Token)
+com.example.model.Track: Track(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String)
+androidx.graphics.path.ConicConverter: int internalConicToQuadratics(float[],int,float[],float,float)
+com.example.model.RepeatMode: com.example.model.RepeatMode valueOf(java.lang.String)
+androidx.media.app.NotificationCompat$Api21Impl: void setMediaSession(android.app.Notification$MediaStyle,android.media.session.MediaSession$Token)
+androidx.profileinstaller.ProfileInstallerInitializer$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper: void setRenderEffect(android.graphics.RenderNode,androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.ui.platform.AndroidComposeView: void setContentCaptureManager$ui_release(androidx.compose.ui.contentcapture.AndroidContentCaptureManager)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.HandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,androidx.compose.ui.platform.ViewConfiguration)
+com.example.database.PlaylistEntity: long component3()
+com.example.database.PlaybackDao_Impl: java.lang.Object deleteAllTracks(kotlin.coroutines.Continuation)
+com.example.model.Playlist: int component4()
+androidx.compose.ui.text.android.CanvasCompatS: void drawPatch(android.graphics.Canvas,android.graphics.NinePatch,android.graphics.Rect,android.graphics.Paint)
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.compose.ui.text.input.CursorAnchorInfoApi33Helper: android.view.inputmethod.CursorAnchorInfo$Builder setEditorBoundsInfo(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.geometry.Rect)
+androidx.compose.material3.internal.InputPhase: androidx.compose.material3.internal.InputPhase[] values()
+com.example.playback.PlaybackService: void createNotificationChannel()
+androidx.compose.ui.graphics.layer.ViewLayer: void setCanUseCompositingLayer$ui_graphics_release(boolean)
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+com.example.model.Track: Track(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: android.view.WindowInsets createWindowInsetsInstance()
+androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction: androidx.compose.ui.node.TraversableNode$Companion$TraverseDescendantsAction valueOf(java.lang.String)
+com.example.database.TrackEntity: java.lang.String getAlbum()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setFillColor(int)
+com.example.playback.PlaybackService: void onDestroy()
+androidx.room.RoomDatabase: void setTransactionSuccessful()
+com.example.database.PlaylistEntity: int hashCode()
+com.example.model.PlaybackState: com.example.model.RepeatMode getRepeatMode()
+androidx.compose.ui.platform.AndroidComposeView: boolean getScrollCaptureInProgress$ui_release()
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper24: void discardDisplayList(android.view.RenderNode)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int toTextGranularity-NUwxegE(int)
+androidx.compose.ui.platform.ComposeView: boolean getShouldCreateCompositionOnAttachedToWindow()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.unit.LayoutDirection getLayoutDirection()
+androidx.compose.ui.platform.AndroidComposeViewStartDragAndDropN: boolean startDragAndDrop(android.view.View,androidx.compose.ui.draganddrop.DragAndDropTransferData,androidx.compose.ui.draganddrop.ComposeDragShadowBuilder)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setClassName(android.view.ViewStructure,java.lang.String)
+com.example.database.PlaybackDao: java.lang.Object updateLyrics(long,java.lang.String,kotlin.coroutines.Continuation)
+androidx.emoji2.text.EmojiExclusions$EmojiExclusions_Api34: java.util.Set getExclusions()
+com.example.widgets.FullControlsWidgetProvider$Companion: void updateAppWidget(android.content.Context,android.appwidget.AppWidgetManager,int,com.example.model.Track,boolean)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,int,int,int,int)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.modifier.ModifierLocalManager getModifierLocalManager()
+androidx.compose.ui.graphics.RenderEffectVerificationHelper: android.graphics.RenderEffect createBlurEffect-8A-3gB4(androidx.compose.ui.graphics.RenderEffect,float,float,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.core.view.WindowInsetsCompat$Impl: boolean isVisible(int)
+androidx.room.EntityInsertAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(androidx.sqlite.SQLiteConnection,java.util.Collection)
+androidx.startup.InitializationProvider: InitializationProvider()
+com.example.model.PlaybackState: boolean component2()
+com.example.playback.PlaybackService: void onCreate()
+com.example.model.PlaybackState: short component11()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode[] values()
+com.example.model.PlaybackState: java.util.List getQueue()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.material3.tokens.ShapeKeyTokens: androidx.compose.material3.tokens.ShapeKeyTokens[] values()
+androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand: androidx.compose.ui.text.input.TextInputServiceAndroid$TextInputCommand[] values()
+androidx.room.EntityInsertAdapter: java.lang.Long[] insertAndReturnIdsArrayBox(androidx.sqlite.SQLiteConnection,java.lang.Object[])
+com.example.playback.PlaybackService: void setAudioEngine(com.example.playback.AudioEngine)
+com.example.database.TrackEntity: java.lang.String component16()
+com.example.widgets.FullControlsWidgetProvider$Companion: FullControlsWidgetProvider$Companion()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidViewsHandler getAndroidViewsHandler$ui_release()
+com.example.model.Track: java.lang.String getLyrics()
+com.example.model.Track: int getBitrateKbps()
+androidx.room.RoomDatabase: boolean inTransaction()
+androidx.room.RoomDatabase: void getMCallbacks$annotations()
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State valueOf(java.lang.String)
+androidx.compose.material3.SheetValue: androidx.compose.material3.SheetValue[] values()
+androidx.core.view.WindowInsetsCompat$Impl20: WindowInsetsCompat$Impl20(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.text.android.StaticLayoutFactory33: void setLineBreakConfig(android.text.StaticLayout$Builder,int,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+com.example.database.PlaylistEntity: long getCreatedAt()
+androidx.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.media.AudioAttributesImplBase: AudioAttributesImplBase()
+com.example.model.Track: java.lang.String component16()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api29Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.compose.ui.autofill.AutofillApi26Helper: android.view.autofill.AutofillId getAutofillId(android.view.ViewStructure)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getScaleY()
+com.example.widgets.WidgetUpdateHelper: WidgetUpdateHelper()
+android.support.v4.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+com.example.model.PlaybackState: short getVirtualizerStrength()
+androidx.room.EntityInsertAdapter: java.util.List insertAndReturnIdsList(androidx.sqlite.SQLiteConnection,java.lang.Object[])
+androidx.media.app.NotificationCompat$Api15Impl: void setContentDescription(android.widget.RemoteViews,int,java.lang.CharSequence)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletionOnLegacyTextField-vJH6DeI(long,androidx.compose.ui.text.AnnotatedString,boolean,kotlin.jvm.functions.Function1)
+com.example.database.PlaylistTrackCrossRef: int getOrderPosition()
+androidx.core.view.WindowInsetsCompat$Impl28: int hashCode()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: java.lang.CharSequence getName(android.media.session.PlaybackState$CustomAction)
+android.support.v4.media.RatingCompat$Api19Impl: android.media.Rating newUnratedRating(int)
+androidx.compose.animation.core.MutatePriority: androidx.compose.animation.core.MutatePriority[] values()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setExtras(android.media.MediaDescription$Builder,android.os.Bundle)
+android.support.v4.media.MediaDescriptionCompat$Api23Impl: void setMediaUri(android.media.MediaDescription$Builder,android.net.Uri)
+androidx.compose.ui.autofill.AutofillApi23Helper: int addChildCount(android.view.ViewStructure,int)
+com.example.model.PlaybackState: int getSleepTimerRemainingSec()
+androidx.compose.ui.autofill.AutofillApi23Helper: void setDimens(android.view.ViewStructure,int,int,int,int,int,int)
+androidx.room.RoomDatabase: void close()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+com.example.database.TrackEntity: long component1()
+com.example.widgets.QueueWidgetProvider: void onReceive(android.content.Context,android.content.Intent)
+androidx.room.ObservedTableStates$ObserveOp: androidx.room.ObservedTableStates$ObserveOp valueOf(java.lang.String)
+androidx.compose.ui.graphics.AndroidGraphicsContext$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+com.example.database.TrackEntity: java.lang.String component7()
+androidx.compose.material3.ModalBottomSheetDialogLayout$Api33Impl: void maybeRegisterBackCallback(android.view.View,java.lang.Object)
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason[] values()
+android.support.v4.media.RatingCompat$Api19Impl: float getStarRating(android.media.Rating)
+androidx.lifecycle.ReportFragment: ReportFragment()
+com.example.database.PlaybackDao_Impl$4: void bind(androidx.sqlite.SQLiteStatement,com.example.database.PlaylistEntity)
+androidx.compose.ui.text.android.CanvasCompatM: void drawTextRun(android.graphics.Canvas,char[],int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners getViewTreeOwners()
+com.example.model.PlaybackState: com.example.model.Track component1()
+com.example.playback.PlaybackService: int onStartCommand(android.content.Intent,int,int)
+androidx.core.view.WindowInsetsCompat$Impl21: WindowInsetsCompat$Impl21(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl21)
+com.example.widgets.WidgetUpdateHelper: void updateAllWidgets(android.content.Context,com.example.model.Track,boolean,java.util.List)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorNext(long,float[],int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeAlpha(float)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: java.lang.CharSequence getErrorMessage(android.media.session.PlaybackState)
+com.example.model.PlaybackState: com.example.model.PlaybackState copy$default(com.example.model.PlaybackState,com.example.model.Track,boolean,long,long,float,com.example.model.RepeatMode,boolean,float,float,java.lang.String,short,short,int,java.util.List,int,int,java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.focus.FocusOwner getFocusOwner()
+androidx.emoji2.text.ConcurrencyHelpers$Handler28Impl: android.os.Handler createAsync(android.os.Looper)
+kotlinx.coroutines.selects.TrySelectDetailedResult: kotlinx.coroutines.selects.TrySelectDetailedResult[] values()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.core.view.ViewCompat$Api21Impl: void setOnApplyWindowInsetsListener(android.view.View,androidx.core.view.OnApplyWindowInsetsListener)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getStableInsets()
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isToggle(android.view.autofill.AutofillValue)
+androidx.room.RoomDatabase: java.util.Set getRequiredAutoMigrationSpecClasses()
+com.example.database.PlaybackDao_Impl: java.lang.Object deletePlaylist(com.example.database.PlaylistEntity,kotlin.coroutines.Continuation)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.core.view.WindowInsetsCompat$Impl: void setStableInsets(androidx.core.graphics.Insets)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performDeletion-Sb-Bc2M(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,long,boolean)
+androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior: androidx.compose.foundation.text.input.internal.undo.TextFieldEditUndoBehavior[] values()
+androidx.compose.ui.graphics.RenderEffectVerificationHelper: android.graphics.RenderEffect createOffsetEffect-Uv8p0NA(androidx.compose.ui.graphics.RenderEffect,long)
+coil.decode.DataSource: coil.decode.DataSource valueOf(java.lang.String)
+com.example.model.EqualizerBand: short component4()
+com.example.database.TrackEntity: int component9()
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper28: void setOutlineAmbientShadowColor(android.view.View,int)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.core.view.ViewCompat$Api20Impl: void requestApplyInsets(android.view.View)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: java.lang.String getAction(android.media.session.PlaybackState$CustomAction)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setText(android.view.ViewStructure,java.lang.CharSequence)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+coil.size.Scale: coil.size.Scale valueOf(java.lang.String)
+com.example.database.AppDatabase_Impl: java.util.Map getRequiredTypeConverterClasses()
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+com.example.model.PlaybackState: float getAudioAmplitudeLeft()
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath: java.lang.String getPathName()
+android.support.v4.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+com.example.database.PlaybackDao_Impl: java.lang.Object setFavorite(long,boolean,kotlin.coroutines.Continuation)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.input.pointer.MotionEventHelper: long toRawOffset-dBAh8RU(android.view.MotionEvent,int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getStrokeColor()
+androidx.compose.foundation.Api31Impl: float onPullDistance(android.widget.EdgeEffect,float,float)
+androidx.room.RoomDatabase: java.util.List createAutoMigrations(java.util.Map)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType[] values()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: android.graphics.Bitmap getIconBitmap(android.media.MediaDescription)
+com.example.widgets.FullControlsWidgetProvider: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems[] values()
+androidx.room.RoomDatabase: void addTypeConverter$room_runtime_release(kotlin.reflect.KClass,java.lang.Object)
+com.example.model.Track: java.lang.String getAlbum()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorRawSize(long)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: long getActiveQueueItemId(android.media.session.PlaybackState)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.AccessibilityManager getAccessibilityManager()
+androidx.compose.foundation.text.input.internal.CursorAnchorInfoApi34Helper: android.view.inputmethod.CursorAnchorInfo$Builder addVisibleLineBounds(android.view.inputmethod.CursorAnchorInfo$Builder,androidx.compose.ui.text.TextLayoutResult,androidx.compose.ui.geometry.Rect)
+com.example.database.PlaybackDao_Impl: java.lang.Object incrementPlayCount(long,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View findViewByAccessibilityIdTraversal(int)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: android.os.Bundle getExtras(android.media.MediaDescription)
+com.example.model.Playlist: java.lang.String component2()
+com.example.database.PlaybackDao_Impl: java.util.List getFavoriteTracks$lambda$5(java.lang.String,androidx.sqlite.SQLiteConnection)
+androidx.media.AudioAttributesImplApi21Parcelizer: AudioAttributesImplApi21Parcelizer()
+androidx.core.view.WindowInsetsCompat$Impl30: boolean isVisible(int)
+com.example.ui.effects.CinematicShader: android.graphics.RenderEffect createCinematicEffect(float,float,float,float,float,float,float)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getRootStableInsets()
+androidx.compose.material3.ModalBottomSheetDialogLayout$Api34Impl: android.window.OnBackAnimationCallback createBackCallback(kotlin.jvm.functions.Function0,androidx.compose.animation.core.Animatable,kotlinx.coroutines.CoroutineScope)
+androidx.room.RoomDatabase: java.lang.ThreadLocal getSuspendingTransactionId()
+com.example.widgets.WidgetUpdateHelper: void updateAllWidgets$default(com.example.widgets.WidgetUpdateHelper,android.content.Context,com.example.model.Track,boolean,java.util.List,int,java.lang.Object)
+com.example.database.TrackEntity: TrackEntity(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: void setTextLocales(androidx.compose.ui.text.platform.AndroidTextPaint,androidx.compose.ui.text.intl.LocaleList)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setAlpha(float)
+com.example.playback.PlaybackService: com.example.playback.AudioEngine getAudioEngine()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.activity.EdgeToEdgeApi26: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setInsets(int,androidx.core.graphics.Insets)
+com.example.widgets.QueueWidgetProvider$Companion: void updateAppWidget(android.content.Context,android.appwidget.AppWidgetManager,int,com.example.model.Track,boolean,java.util.List)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel valueOf(java.lang.String)
+androidx.compose.foundation.text.TextContextMenuItems: androidx.compose.foundation.text.TextContextMenuItems valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeWidth()
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.activity.EdgeToEdgeApi23: void setUp(androidx.activity.SystemBarStyle,androidx.activity.SystemBarStyle,android.view.Window,android.view.View,boolean,boolean)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand[] values()
+android.support.v4.media.AudioAttributesCompatParcelizer: AudioAttributesCompatParcelizer()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.DrawChildContainer getContainer()
+com.example.widgets.ReceiverWidgetProvider$Companion: ReceiverWidgetProvider$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.room.RoomOpenDelegate: int getVersion()
+com.example.widgets.ReceiverWidgetProvider$Companion: void updateAllWidgets(android.content.Context,com.example.model.Track,boolean)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.ViewLayer$UniqueDrawingIdApi29: long getUniqueDrawingId(android.view.View)
+androidx.compose.ui.graphics.Api26Bitmap: android.graphics.Bitmap createBitmap-x__-hDU$ui_graphics_release(int,int,int,boolean,androidx.compose.ui.graphics.colorspace.ColorSpace)
+androidx.room.RoomDatabase: void performClear(boolean,java.lang.String[])
+com.example.database.PlaybackDao_Impl$4: java.lang.String createQuery()
+androidx.compose.foundation.Api31Impl: float getDistance(android.widget.EdgeEffect)
+androidx.activity.EdgeToEdgeApi30: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState[] values()
+com.example.database.TrackEntity: java.lang.String getAlbumArtUri()
+androidx.graphics.path.PathIteratorPreApi34Impl: long createInternalPathIterator(android.graphics.Path,int,float)
+com.example.model.Track: java.lang.String getDataPath()
+androidx.activity.Api34Impl: float touchY(android.window.BackEvent)
+androidx.compose.ui.window.PopupLayout: boolean getCanCalculatePosition()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleX(float)
+com.example.model.PlaybackState: PlaybackState(com.example.model.Track,boolean,long,long,float,com.example.model.RepeatMode,boolean,float,float,java.lang.String,short,short,int,java.util.List,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootViewData(androidx.core.graphics.Insets)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: java.lang.String getGroupName()
+com.example.model.Track: int component9()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: android.media.session.PlaybackState$CustomAction$Builder createCustomActionBuilder(java.lang.String,java.lang.CharSequence,int)
+com.example.database.TrackEntity: java.lang.String component3()
+coil.request.CachePolicy: coil.request.CachePolicy valueOf(java.lang.String)
+androidx.compose.ui.text.android.CanvasCompatQ: void disableZ(android.graphics.Canvas)
+com.example.model.PlaybackState: PlaybackState(com.example.model.Track,boolean,long,long,float,com.example.model.RepeatMode,boolean,float,float,java.lang.String,short,short,int,java.util.List,int)
+com.example.database.PlaylistEntity: PlaylistEntity(long,java.lang.String,long)
+androidx.compose.ui.platform.AndroidComposeView: void setAccessibilityEventBatchIntervalMillis(long)
+com.example.database.PlaylistEntity: long component1()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+androidx.core.view.WindowInsetsCompat$Impl28: WindowInsetsCompat$Impl28(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.compose.ui.platform.AndroidComposeView: void setOnViewTreeOwnersAvailable(kotlin.jvm.functions.Function1)
+androidx.compose.ui.graphics.TileModeVerificationHelper: int getComposeTileModeDecal-3opZhB0()
+com.example.database.PlaybackDao_Impl: java.util.List getAllTracks$lambda$4(java.lang.String,androidx.sqlite.SQLiteConnection)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.compose.ui.graphics.Api26Bitmap: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace$ui_graphics_release(android.graphics.Bitmap)
+androidx.compose.foundation.text.KeyCommand: androidx.compose.foundation.text.KeyCommand[] values()
+com.example.database.TrackEntity: java.lang.String getArtist()
+androidx.compose.ui.autofill.AutofillApi23Helper: void setId(android.view.ViewStructure,int,java.lang.String,java.lang.String,java.lang.String)
+android.support.v4.media.RatingCompat$Api19Impl: android.media.Rating newHeartRating(boolean)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.compose.ui.window.PopupLayout: android.view.View getViewRoot()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: int getFillColor()
+androidx.room.RoomOpenDelegate: java.lang.String getIdentityHash()
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.InputModeManager getInputModeManager()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewsDisappeared(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,long[])
+com.example.database.PlaybackDao: java.lang.Object insertPlaylist(com.example.database.PlaylistEntity,kotlin.coroutines.Continuation)
+com.example.database.PlaybackDao_Impl: kotlin.Unit deletePlaylist$lambda$3(com.example.database.PlaybackDao_Impl,com.example.database.PlaylistEntity,androidx.sqlite.SQLiteConnection)
+com.example.model.Track: java.lang.String getAlbumArtUri()
+androidx.compose.ui.text.font.FontWeightAdjustmentHelperApi31: int fontWeightAdjustment(android.content.Context)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,long)
+com.example.database.TrackEntity: boolean component8()
+com.example.model.Track: boolean component8()
+com.example.database.PlaybackDao_Impl$3: java.lang.String createQuery()
+com.example.model.EqualizerBand: short component5()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.graphics.GraphicsContext getGraphicsContext()
+androidx.compose.foundation.text.input.internal.EditorInfoApi34: void setHandwritingGestures(android.view.inputmethod.EditorInfo)
+androidx.compose.ui.platform.TextToolbarStatus: androidx.compose.ui.platform.TextToolbarStatus[] values()
+androidx.compose.foundation.gestures.Orientation: androidx.compose.foundation.gestures.Orientation[] values()
+androidx.profileinstaller.ProfileInstallerInitializer$Choreographer16Impl: void postFrameCallback(java.lang.Runnable)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.activity.EdgeToEdgeApi28: void adjustLayoutInDisplayCutoutMode(android.view.Window)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getMandatorySystemGestureInsets()
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicWidthHeight[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotX(float)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isText(android.view.autofill.AutofillValue)
+com.example.database.PlaybackDao_Impl: java.lang.Object updateLyrics(long,java.lang.String,kotlin.coroutines.Continuation)
+androidx.compose.ui.platform.WrapperRenderNodeLayerHelperMethods: void onDescendantInvalidated(androidx.compose.ui.platform.AndroidComposeView)
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 getOnTogglePlayPause()
+com.example.ScreenState: com.example.ScreenState[] values()
+com.example.database.PlaylistEntity: java.lang.String toString()
+com.example.database.PlaybackDao_Impl$2: void bind(androidx.sqlite.SQLiteStatement,java.lang.Object)
+com.example.database.PlaybackDao_Impl$3: void bind(androidx.sqlite.SQLiteStatement,com.example.database.PlaylistTrackCrossRef)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillId(android.view.ViewStructure,android.view.autofill.AutofillId,int)
+com.example.model.Track: int component13()
+com.example.model.EqualizerBand: short getMaxLevelMb()
+com.example.database.PlaybackDao_Impl$1: void bind(androidx.sqlite.SQLiteStatement,java.lang.Object)
+com.example.playback.PlaybackService: void showNotification(com.example.model.Track,boolean,java.util.List)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setIconUri(android.media.MediaDescription$Builder,android.net.Uri)
+androidx.compose.ui.platform.AbstractComposeView: void setParentContext(androidx.compose.runtime.CompositionContext)
+android.support.v4.media.AudioAttributesCompatParcelizer: void write(androidx.media.AudioAttributesCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+com.example.database.AppDatabase_Impl: java.util.Set getRequiredAutoMigrationSpecClasses()
+com.example.widgets.QueueWidgetProvider$Companion: QueueWidgetProvider$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.compose.ui.platform.AndroidComposeView: long getMeasureIteration()
+android.support.v4.media.RatingCompat$Api19Impl: int getRatingStyle(android.media.Rating)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getStrokeAlpha()
+androidx.compose.ui.text.android.StaticLayoutFactoryDefault: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsets(int)
+com.example.database.PlaybackDao_Impl$1: java.lang.String createQuery()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.RootForTest getRootForTest()
+okhttp3.internal.publicsuffix.PublicSuffixDatabase: PublicSuffixDatabase()
+androidx.room.RoomDatabase: androidx.room.RoomConnectionManager access$getConnectionManager$p(androidx.room.RoomDatabase)
+com.example.database.PlaybackDao: java.lang.Object getPlaylistByName(java.lang.String,kotlin.coroutines.Continuation)
+com.example.model.Track: boolean isFavorite()
+com.example.model.PlaybackState: boolean equals(java.lang.Object)
+androidx.room.RoomDatabase: java.util.Map getRequiredTypeConverters()
+com.example.model.Track: boolean equals(java.lang.Object)
+com.example.model.PlaybackState: int component15()
+com.example.model.Track: java.lang.String component6()
+com.example.database.PlaylistTrackCrossRef: int hashCode()
+androidx.compose.ui.text.android.CanvasCompatQ: void enableZ(android.graphics.Canvas)
+androidx.core.view.WindowInsetsCompat$Impl20: boolean equals(java.lang.Object)
+com.example.model.Track: java.lang.String component3()
+com.example.database.PlaybackDao_Impl$Companion: PlaybackDao_Impl$Companion()
+com.example.database.PlaybackDao_Impl$Companion: PlaybackDao_Impl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.flow.SharingCommand: kotlinx.coroutines.flow.SharingCommand valueOf(java.lang.String)
+kotlin.collections.AbstractMutableSet: AbstractMutableSet()
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutPath(android.graphics.Canvas,android.graphics.Path)
+com.example.database.PlaybackDao_Impl: kotlin.Unit incrementPlayCount$lambda$15(java.lang.String,long,androidx.sqlite.SQLiteConnection)
+androidx.room.RoomDatabase: kotlinx.coroutines.CoroutineScope getCoroutineScope()
+androidx.compose.ui.platform.DrawChildContainer: int getChildCount()
+androidx.compose.material.ripple.RippleHostView: void setRippleState$lambda$2(androidx.compose.material.ripple.RippleHostView)
+com.example.ui.effects.ScrollCinematicProfile: com.example.ui.effects.ScrollCinematicProfile valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType[] values()
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: float getAlpha()
+androidx.media.AudioAttributesImplBaseParcelizer: AudioAttributesImplBaseParcelizer()
+androidx.lifecycle.ProcessLifecycleOwner$Api29Impl: void registerActivityLifecycleCallbacks(android.app.Activity,android.app.Application$ActivityLifecycleCallbacks)
+com.example.database.PlaylistEntity: PlaylistEntity(long,java.lang.String,long,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeSystemWindowInsets()
+com.example.database.PlaybackDao: java.lang.Object insertTracks(java.util.List,kotlin.coroutines.Continuation)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.WindowInsetsCompat consumeStableInsets()
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.graphics.Path getManualClipPath()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isTypeVisible(int)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: long getActions(android.media.session.PlaybackState)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.compose.foundation.text.Handle: androidx.compose.foundation.text.Handle valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: void setPopupContentSize-fhxjrPA(androidx.compose.ui.unit.IntSize)
+androidx.compose.ui.platform.AndroidComposeView: void setLastMatrixRecalculationAnimationTime$ui_release(long)
+com.example.database.TrackEntity: int component14()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getSystemWindowInsets()
+androidx.profileinstaller.FileSectionType: androidx.profileinstaller.FileSectionType[] values()
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize valueOf(java.lang.String)
+androidx.compose.ui.text.font.TypefaceHelperMethodsApi28: android.graphics.Typeface create(android.graphics.Typeface,int,boolean)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setPivotY(float)
+androidx.compose.ui.input.pointer.PointerEventPass: androidx.compose.ui.input.pointer.PointerEventPass[] values()
+com.example.database.PlaylistTrackCrossRef: PlaylistTrackCrossRef(long,long,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.example.model.EqualizerBand: boolean equals(java.lang.Object)
+com.example.database.PlaylistTrackCrossRef: com.example.database.PlaylistTrackCrossRef copy(long,long,int)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawTextRun(android.graphics.Canvas,android.graphics.text.MeasuredText,int,int,int,int,float,float,boolean,android.graphics.Paint)
+androidx.compose.ui.text.android.CanvasCompatR: boolean quickReject(android.graphics.Canvas,android.graphics.RectF)
+com.example.database.PlaybackDao: java.lang.Object deletePlaylist(com.example.database.PlaylistEntity,kotlin.coroutines.Continuation)
+androidx.room.EntityInsertAdapter: void insert(androidx.sqlite.SQLiteConnection,java.lang.Object[])
+androidx.activity.Api34Impl: android.window.BackEvent createOnBackEvent(float,float,float,int)
+androidx.compose.ui.text.android.CanvasCompatO: boolean clipOutRect(android.graphics.Canvas,android.graphics.RectF)
+androidx.compose.ui.text.android.CanvasCompatS: void drawGlyphs(android.graphics.Canvas,int[],int,float[],int,int,android.graphics.fonts.Font,android.graphics.Paint)
+com.example.widgets.QueueWidgetProvider: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+androidx.compose.ui.platform.AbstractComposeView: boolean getHasComposition()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api29Impl: android.view.contentcapture.ContentCaptureSession getContentCaptureSession(android.view.View)
+com.example.model.EqualizerBand: short component3()
+com.example.model.Playlist: java.lang.String toString()
+androidx.room.RoomDatabase$JournalMode: androidx.room.RoomDatabase$JournalMode valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.IntSize getPopupContentSize-bOM6tXw()
+com.example.database.PlaybackDao: kotlinx.coroutines.flow.Flow getAllTracks()
+androidx.compose.ui.platform.ViewLayer: void setInvalidated(boolean)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor[] values()
+androidx.compose.ui.window.PopupLayout: void setParentLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker getInvalidationTracker()
+coil.request.CachePolicy: coil.request.CachePolicy[] values()
+androidx.compose.ui.text.platform.extensions.LocaleListHelperMethods: java.lang.Object localeSpan(androidx.compose.ui.text.intl.LocaleList)
+androidx.core.view.ViewCompat$Api28Impl: boolean isScreenReaderFocusable(android.view.View)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens valueOf(java.lang.String)
+com.example.database.AppDatabase_Impl: void access$internalInitInvalidationTracker(com.example.database.AppDatabase_Impl,androidx.sqlite.SQLiteConnection)
+androidx.appcompat.resources.Compatibility$Api21Impl: int getChangingConfigurations(android.content.res.TypedArray)
+androidx.room.RoomDatabase: void internalInitInvalidationTracker(androidx.sqlite.SQLiteConnection)
+androidx.compose.ui.platform.AndroidComposeView: android.view.View getView()
+com.example.model.PlaybackState: boolean component7()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: int getRootAlpha()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: androidx.core.view.WindowInsetsCompat build()
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: androidx.compose.ui.graphics.colorspace.ColorSpace composeColorSpace(android.graphics.ColorSpace)
+androidx.compose.ui.platform.ViewLayer: androidx.compose.ui.platform.AndroidComposeView getOwnerView()
+kotlin.collections.AbstractList: AbstractList()
+com.example.model.Track: long component10()
+androidx.room.RoomDatabase: java.lang.Object getTypeConverter(kotlin.reflect.KClass)
+androidx.room.RoomDatabase: java.util.List getAutoMigrations(java.util.Map)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.ui.window.PopupLayout: void setLayoutDirection(int)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getPivotX()
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery)
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.platform.CalculateMatrixToWindowApi29: void calculateMatrixToWindow-EL8BTi8(android.view.View,float[])
+com.example.database.PlaylistEntity: java.lang.String getName()
+androidx.media.AudioAttributesImplBaseParcelizer: void write(androidx.media.AudioAttributesImplBase,androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.example.model.Track: int getSampleRateHz()
+com.example.database.PlaybackDao_Impl: kotlinx.coroutines.flow.Flow getAllPlaylists()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getTappableElementInsets()
+com.example.playback.PlaybackService: android.os.IBinder onBind(android.content.Intent)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus valueOf(java.lang.String)
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax[] values()
+com.example.database.PlaybackDao_Impl$1: void bind(androidx.sqlite.SQLiteStatement,com.example.database.TrackEntity)
+com.example.database.TrackEntity: int hashCode()
+androidx.graphics.path.PathIteratorPreApi34Impl: int internalPathIteratorSize(long)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityPreCreated(android.app.Activity,android.os.Bundle)
+androidx.core.view.WindowInsetsCompat$Impl29: androidx.core.graphics.Insets getSystemGestureInsets()
+androidx.room.RoomDatabase: java.lang.Object runInTransaction(java.util.concurrent.Callable)
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: AppDatabase_Impl$createOpenDelegate$_openDelegate$1(com.example.database.AppDatabase_Impl)
+com.example.database.PlaybackDao: java.lang.Object getTrackByPath(java.lang.String,kotlin.coroutines.Continuation)
+com.example.model.PlaybackState: com.example.model.RepeatMode component6()
+androidx.graphics.path.PathIteratorPreApi34Impl: void destroyInternalPathIterator(long)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: android.view.ViewStructure newViewStructure(android.view.contentcapture.ContentCaptureSession,android.view.View)
+com.example.database.TrackEntity: boolean equals(java.lang.Object)
+androidx.compose.material3.ModalBottomSheetDialogLayout$Api33Impl: void maybeUnregisterBackCallback(android.view.View,java.lang.Object)
+androidx.appcompat.resources.Compatibility$Api18Impl: void setAutoCancel(android.animation.ObjectAnimator,boolean)
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode valueOf(java.lang.String)
+androidx.compose.ui.node.LayoutNode$LayoutState: androidx.compose.ui.node.LayoutNode$LayoutState[] values()
+androidx.core.view.WindowInsetsCompat$Impl: void copyRootViewBounds(android.view.View)
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority valueOf(java.lang.String)
+androidx.compose.ui.graphics.layer.ViewLayer: void setInvalidated(boolean)
+com.example.database.PlaybackDao: java.lang.Object addTrackToPlaylist(com.example.database.PlaylistTrackCrossRef,kotlin.coroutines.Continuation)
+androidx.exifinterface.media.ExifInterfaceUtils$Api23Impl: void setDataSource(android.media.MediaMetadataRetriever,android.media.MediaDataSource)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+com.example.model.EqualizerBand: java.lang.String toString()
+com.example.database.PlaybackDao_Impl: java.lang.Object insertPlaylist(com.example.database.PlaylistEntity,kotlin.coroutines.Continuation)
+androidx.activity.OnBackPressedDispatcher$Api34Impl: android.window.OnBackInvokedCallback createOnBackAnimationCallback(kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function1,kotlin.jvm.functions.Function0,kotlin.jvm.functions.Function0)
+androidx.compose.ui.platform.AbstractComposeView: boolean getShowLayoutBounds()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setTranslateX(float)
+androidx.compose.foundation.text.selection.SelectionHandleAnchor: androidx.compose.foundation.text.selection.SelectionHandleAnchor valueOf(java.lang.String)
+androidx.room.RoomDatabase: androidx.room.InvalidationTracker createInvalidationTracker()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void addCustomAction(android.media.session.PlaybackState$Builder,android.media.session.PlaybackState$CustomAction)
+androidx.compose.ui.platform.AndroidComposeView: void getShowLayoutBounds$annotations()
+androidx.compose.ui.platform.AndroidComposeView: void set_viewTreeOwners(androidx.compose.ui.platform.AndroidComposeView$ViewTreeOwners)
+androidx.core.view.WindowInsetsCompat$Impl28: boolean equals(java.lang.Object)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathEnd(float)
+com.example.ui.ReceiverTab: com.example.ui.ReceiverTab[] values()
+android.support.v4.media.session.PlaybackStateCompat$Api22Impl: void setExtras(android.media.session.PlaybackState$Builder,android.os.Bundle)
+com.example.database.PlaybackDao_Impl: java.lang.Object insertTracks(java.util.List,kotlin.coroutines.Continuation)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.example.database.PlaylistTrackCrossRef: int component3()
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl valueOf(java.lang.String)
+com.example.database.TrackEntity: boolean isFavorite()
+androidx.compose.ui.platform.ViewLayerVerificationHelper28: void setOutlineSpotShadowColor(android.view.View,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1: ProcessLifecycleOwner$attach$1(androidx.lifecycle.ProcessLifecycleOwner)
+androidx.core.view.ViewCompat$Api21Impl: androidx.core.view.WindowInsetsCompat getRootWindowInsets(android.view.View)
+androidx.compose.ui.platform.AndroidComposeViewForceDarkModeQ: void disallowForceDark(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.core.view.WindowInsetsCompat$Impl: void setRootWindowInsets(androidx.core.view.WindowInsetsCompat)
+com.example.model.PlaybackState: boolean isPlaying()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.semantics.SemanticsOwner getSemanticsOwner()
+com.example.database.PlaybackDao_Impl: com.example.database.PlaylistEntity getPlaylistByName$lambda$9(java.lang.String,java.lang.String,androidx.sqlite.SQLiteConnection)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setExtras(android.media.session.PlaybackState$CustomAction$Builder,android.os.Bundle)
+com.example.database.TrackEntity: java.lang.String component15()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.room.MultiInstanceInvalidationService: MultiInstanceInvalidationService()
+androidx.core.view.WindowInsetsCompat$Impl: boolean isRound()
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setAmbientShadowColor(android.view.RenderNode,int)
+com.example.model.PlaybackState: long getTotalDurationMs()
+okhttp3.TlsVersion: okhttp3.TlsVersion valueOf(java.lang.String)
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.example.model.Playlist: boolean equals(java.lang.Object)
+androidx.compose.material.ripple.RippleHostView: void setRippleState(boolean)
+androidx.core.view.WindowInsetsCompat$Impl21: androidx.core.graphics.Insets getStableInsets()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getTrimPathStart()
+androidx.compose.foundation.text.input.internal.LocaleListHelper: void setHintLocales(android.view.inputmethod.EditorInfo,androidx.compose.ui.text.intl.LocaleList)
+androidx.media.AudioAttributesImplApi26Parcelizer: void write(androidx.media.AudioAttributesImplApi26,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus: androidx.compose.ui.contentcapture.AndroidContentCaptureManager$TranslateStatus[] values()
+android.support.v4.media.AudioAttributesImplApi26Parcelizer: androidx.media.AudioAttributesImplApi26 read(androidx.versionedparcelable.VersionedParcel)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.platform.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+androidx.compose.runtime.Recomposer$State: androidx.compose.runtime.Recomposer$State[] values()
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.compose.ui.text.android.BoringLayoutFactory33: android.text.BoringLayout create(java.lang.CharSequence,android.text.TextPaint,int,android.text.Layout$Alignment,float,float,android.text.BoringLayout$Metrics,boolean,boolean,android.text.TextUtils$TruncateAt,int)
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+androidx.room.RoomDatabase: boolean getUseTempTrackingTable$room_runtime_release()
+androidx.compose.ui.text.android.CanvasCompatQ: void drawRenderNode(android.graphics.Canvas,android.graphics.RenderNode)
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper23: void destroyDisplayListData(android.view.RenderNode)
+com.example.widgets.QueueWidgetProvider: QueueWidgetProvider()
+com.example.database.PlaybackDao_Impl: java.util.List getTracksByFileName$lambda$8(java.lang.String,java.lang.String,androidx.sqlite.SQLiteConnection)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: int getState(android.media.session.PlaybackState)
+androidx.compose.runtime.InvalidationResult: androidx.compose.runtime.InvalidationResult[] values()
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api26Impl: android.view.autofill.AutofillId getAutofillId(android.view.View)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setActiveQueueItemId(android.media.session.PlaybackState$Builder,long)
+androidx.compose.ui.platform.RenderNodeVerificationHelper28: void setSpotShadowColor(android.view.RenderNode,int)
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: LifecycleDispatcher$DispatcherActivityCallback()
+okhttp3.internal.http2.ErrorCode: okhttp3.internal.http2.ErrorCode[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$Impl: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.core.view.WindowInsetsCompat$TypeImpl30: int toPlatformType(int)
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getVisibleInsets(android.view.View)
+com.example.model.Track: int component14()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+com.example.ui.effects.CinematicShader: androidx.compose.ui.graphics.RenderEffect createComposeCinematicEffect(float,float,float,float,float,float,float)
+com.example.model.PlaybackState: java.lang.String toString()
+androidx.lifecycle.ProcessLifecycleInitializer: ProcessLifecycleInitializer()
+com.example.model.Track: java.lang.String getCodec()
+com.example.model.EqualizerBand: short getBandIndex()
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction[] values()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathOffset(float)
+androidx.compose.ui.graphics.layer.ViewLayerVerificationHelper31: void setRenderEffect(android.view.View,androidx.compose.ui.graphics.RenderEffect)
+com.example.database.AppDatabase$Companion: com.example.database.AppDatabase getInstance(android.content.Context)
+androidx.compose.ui.state.ToggleableState: androidx.compose.ui.state.ToggleableState valueOf(java.lang.String)
+com.example.model.Playlist: Playlist(long,java.lang.String,long,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.view.WindowInsetsCompat$Impl21: boolean isConsumed()
+com.example.model.PlaybackState: float component9()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl30)
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+com.example.widgets.QueueWidgetProvider$Companion: QueueWidgetProvider$Companion()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer: void setRootAlpha(int)
+com.example.database.PlaybackDao_Impl: kotlinx.coroutines.flow.Flow getFavoriteTracks()
+androidx.compose.ui.layout.IntrinsicMinMax: androidx.compose.ui.layout.IntrinsicMinMax valueOf(java.lang.String)
+androidx.compose.foundation.layout.Direction: androidx.compose.foundation.layout.Direction valueOf(java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.platform.AbstractComposeView getSubCompositionView()
+androidx.graphics.path.PathIteratorPreApi34Impl: boolean internalPathIteratorHasNext(long)
+androidx.profileinstaller.ProfileInstallerInitializer: ProfileInstallerInitializer()
+androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy: androidx.compose.ui.input.pointer.util.VelocityTracker1D$Strategy valueOf(java.lang.String)
+androidx.room.RoomDatabase: void endTransaction()
+androidx.room.ObservedTableStates$ObserveOp: androidx.room.ObservedTableStates$ObserveOp[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+androidx.activity.Api34Impl: float touchX(android.window.BackEvent)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: long getLastPositionUpdateTime(android.media.session.PlaybackState)
+androidx.compose.ui.contentcapture.AndroidContentCaptureManager$ViewTranslationHelperMethods: void onVirtualViewTranslationResponses(androidx.compose.ui.contentcapture.AndroidContentCaptureManager,android.util.LongSparseArray)
+androidx.core.view.ViewCompat$Api21Impl: void callCompatInsetAnimationCallback(android.view.WindowInsets,android.view.View)
+androidx.media.AudioAttributesImplApi21Parcelizer: void write(androidx.media.AudioAttributesImplApi21,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.exifinterface.media.ExifInterfaceUtils$Api21Impl: void close(java.io.FileDescriptor)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState: int getChangingConfigurations()
+androidx.core.view.WindowInsetsCompat$Impl30: WindowInsetsCompat$Impl30(androidx.core.view.WindowInsetsCompat,android.view.WindowInsets)
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void dropAllTables(androidx.sqlite.SQLiteConnection)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityResumed(android.app.Activity)
+okhttp3.Protocol: okhttp3.Protocol valueOf(java.lang.String)
+androidx.room.EntityInsertAdapter: void insert(androidx.sqlite.SQLiteConnection,java.lang.Iterable)
+com.example.database.PlaylistEntity: com.example.database.PlaylistEntity copy$default(com.example.database.PlaylistEntity,long,java.lang.String,long,int,java.lang.Object)
+androidx.compose.foundation.layout.IntrinsicSize: androidx.compose.foundation.layout.IntrinsicSize[] values()
+androidx.compose.ui.autofill.AutofillCallback: void unregister(androidx.compose.ui.autofill.AndroidAutofill)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsN: void setPointerIcon(android.view.View,androidx.compose.ui.input.pointer.PointerIcon)
+androidx.compose.ui.graphics.layer.view.DrawChildContainer: int getChildCount()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+kotlin.random.Random: Random()
+com.example.model.PlaybackState: float component5()
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy[] values()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+androidx.compose.ui.platform.ComposeView: void setContent(kotlin.jvm.functions.Function2)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+com.example.ui.effects.CinematicShader: android.graphics.RenderEffect createCinematicEffect$default(com.example.ui.effects.CinematicShader,float,float,float,float,float,float,float,int,java.lang.Object)
+com.example.database.PlaybackDao_Impl$Companion: java.util.List getRequiredConverters()
+androidx.room.RoomDatabase: androidx.sqlite.db.SupportSQLiteStatement compileStatement(java.lang.String)
+androidx.room.Transactor$SQLiteTransactionType: androidx.room.Transactor$SQLiteTransactionType valueOf(java.lang.String)
+androidx.compose.material3.tokens.TypographyKeyTokens: androidx.compose.material3.tokens.TypographyKeyTokens[] values()
+android.support.v4.media.RatingCompat$Api19Impl: android.media.Rating newStarRating(int,float)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: android.media.session.PlaybackState$CustomAction build(android.media.session.PlaybackState$CustomAction$Builder)
+androidx.media.app.NotificationCompat$Api21Impl: void setMediaStyle(android.app.Notification$Builder,android.app.Notification$MediaStyle)
+androidx.compose.ui.platform.AndroidComposeView: void getLastMatrixRecalculationAnimationTime$ui_release$annotations()
+com.example.database.PlaybackDao: kotlinx.coroutines.flow.Flow getFavoriteTracks()
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName valueOf(java.lang.String)
+androidx.room.RoomDatabase: boolean isMainThread$room_runtime_release()
+androidx.compose.ui.graphics.layer.OutlineVerificationHelper: void setPath(android.graphics.Outline,androidx.compose.ui.graphics.Path)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager)
+kotlin.LazyThreadSafetyMode: kotlin.LazyThreadSafetyMode[] values()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: int getIcon(android.media.session.PlaybackState$CustomAction)
+androidx.compose.ui.autofill.AutofillType: androidx.compose.ui.autofill.AutofillType valueOf(java.lang.String)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setIconBitmap(android.media.MediaDescription$Builder,android.graphics.Bitmap)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.SoftwareKeyboardController getSoftwareKeyboardController()
+com.example.model.Track: java.lang.String toString()
+androidx.compose.ui.platform.AndroidComposeView: void getFontLoader$annotations()
+com.example.model.Track: java.lang.String component11()
+androidx.compose.ui.platform.ViewLayer: void setCameraDistancePx(float)
+androidx.compose.ui.platform.TextToolbarHelperMethods: void invalidateContentRect(android.view.ActionMode)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.draganddrop.DragAndDropManager getDragAndDropManager()
+androidx.compose.ui.window.PopupLayout: android.view.WindowManager$LayoutParams getParams$ui_release()
+com.example.model.Playlist: long getCreatedAt()
+com.example.model.RepeatMode: com.example.model.RepeatMode[] values()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: void unregisterOnBackInvokedCallback(java.lang.Object,java.lang.Object)
+com.example.database.TrackEntity: int getPlayCount()
+com.example.ui.effects.ScrollCinematicProfile: com.example.ui.effects.ScrollCinematicProfile[] values()
+androidx.compose.animation.core.RepeatMode: androidx.compose.animation.core.RepeatMode[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performInsertGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.InsertGesture,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+com.example.database.PlaybackDao: java.lang.Object incrementPlayCount(long,kotlin.coroutines.Continuation)
+com.example.database.PlaybackDao: kotlinx.coroutines.flow.Flow getTracksForPlaylist(long)
+kotlin.DeprecationLevel: kotlin.DeprecationLevel[] values()
+com.example.database.PlaybackDao_Impl: kotlin.Unit removeTrackFromPlaylist$lambda$17(java.lang.String,long,long,androidx.sqlite.SQLiteConnection)
+androidx.core.view.WindowInsetsCompat$Impl: WindowInsetsCompat$Impl(androidx.core.view.WindowInsetsCompat)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setRotation(float)
+com.example.database.AppDatabase$Companion: AppDatabase$Companion()
+com.example.model.EqualizerBand: short getMinLevelMb()
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setStableInsets(androidx.core.graphics.Insets)
+com.example.model.Playlist: com.example.model.Playlist copy(long,java.lang.String,long,int)
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: void setState(android.media.session.PlaybackState$Builder,int,long,float,long)
+com.example.MainActivity: MainActivity()
+androidx.compose.ui.window.PopupLayout: void setContent(kotlin.jvm.functions.Function2)
+androidx.room.RoomDatabase: void internalInitInvalidationTracker(androidx.sqlite.db.SupportSQLiteDatabase)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setTrimPathStart(float)
+androidx.room.EntityDeleteOrUpdateAdapter: int handle(androidx.sqlite.SQLiteConnection,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: void loadReflectionField()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.compose.ui.platform.AndroidComposeViewTranslationCallbackS: void setViewTranslationCallback(android.view.View)
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api29Impl: void notifyViewTextChanged(android.view.contentcapture.ContentCaptureSession,android.view.autofill.AutofillId,java.lang.CharSequence)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: WindowInsetsCompat$BuilderImpl29(androidx.core.view.WindowInsetsCompat)
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent[] values()
+com.example.database.PlaybackDao_Impl: com.example.database.TrackEntity getTrackById$lambda$6(java.lang.String,long,androidx.sqlite.SQLiteConnection)
+com.example.database.PlaybackDao_Impl: kotlin.Unit setFavorite$lambda$14(java.lang.String,boolean,long,androidx.sqlite.SQLiteConnection)
+androidx.compose.ui.window.SecureFlagPolicy: androidx.compose.ui.window.SecureFlagPolicy valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+com.example.playback.PlaybackService: void showNotification$default(com.example.playback.PlaybackService,com.example.model.Track,boolean,java.util.List,int,java.lang.Object)
+com.example.playback.PlaybackService: PlaybackService()
+com.example.database.TrackEntity: int component13()
+androidx.compose.ui.layout.IntrinsicWidthHeight: androidx.compose.ui.layout.IntrinsicWidthHeight valueOf(java.lang.String)
+com.example.model.Playlist: com.example.model.Playlist copy$default(com.example.model.Playlist,long,java.lang.String,long,int,int,java.lang.Object)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setDescription(android.media.MediaDescription$Builder,java.lang.CharSequence)
+androidx.profileinstaller.ProfileVerifier$Api33Impl: android.content.pm.PackageInfo getPackageInfo(android.content.pm.PackageManager,android.content.Context)
+androidx.compose.ui.platform.AbstractComposeView: void setShowLayoutBounds(boolean)
+androidx.appcompat.resources.Compatibility$Api21Impl: void inflate(android.graphics.drawable.Drawable,android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
+androidx.compose.ui.platform.coreshims.ViewCompatShims$Api30Impl: void setImportantForContentCapture(android.view.View,int)
+com.example.model.PlaybackState: float getVolumeLevel()
+com.example.model.PlaybackState: float getAudioAmplitudeRight()
+com.example.database.TrackEntity: long getDurationMs()
+androidx.media.AudioAttributesImplApi21: AudioAttributesImplApi21()
+androidx.core.app.NotificationCompat$BubbleMetadata$Api30Impl: android.app.Notification$BubbleMetadata toPlatform(androidx.core.app.NotificationCompat$BubbleMetadata)
+androidx.lifecycle.LegacySavedStateHandleController$OnRecreation: LegacySavedStateHandleController$OnRecreation()
+androidx.activity.OnBackPressedDispatcher$Api33Impl: android.window.OnBackInvokedCallback createOnBackInvokedCallback(kotlin.jvm.functions.Function0)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyWindowDataInto(androidx.core.view.WindowInsetsCompat)
+androidx.compose.ui.platform.AndroidViewConfigurationApi34: float getScaledHandwritingGestureLineMargin(android.view.ViewConfiguration)
+androidx.room.EntityInsertAdapter: long[] insertAndReturnIdsArray(androidx.sqlite.SQLiteConnection,java.lang.Object[])
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int fallbackOnLegacyTextField(android.view.inputmethod.HandwritingGesture,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsets(int)
+androidx.compose.ui.platform.ViewLayer: long getOwnerViewId()
+com.example.ScreenState: com.example.ScreenState valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.input.pointer.PointerIconService getPointerIconService()
+androidx.lifecycle.SavedStateHandlesVM: SavedStateHandlesVM()
+androidx.compose.ui.window.PopupLayout: void setTestTag(java.lang.String)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.node.NodeMeasuringIntrinsics$IntrinsicMinMax[] values()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performDeleteRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.ui.text.AnnotatedString,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$Impl20: void setOverriddenInsets(androidx.core.graphics.Insets[])
+com.example.model.Track: int getPlayCount()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+com.example.model.Playlist: long component3()
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillHints(android.view.ViewStructure,java.lang.String[])
+androidx.compose.ui.graphics.layer.RenderNodeVerificationHelper28: int getSpotShadowColor(android.view.RenderNode)
+androidx.compose.ui.graphics.ColorSpaceVerificationHelper: android.graphics.ColorSpace androidColorSpace(androidx.compose.ui.graphics.colorspace.ColorSpace)
+com.example.model.PlaybackState: int getQueueIndex()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.autofill.Autofill getAutofill()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: android.net.Uri getIconUri(android.media.MediaDescription)
+com.example.database.TrackEntity: long component5()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: android.os.Bundle getExtras(android.view.ViewStructure)
+androidx.room.RoomDatabase: boolean isOpenInternal()
+com.example.database.PlaybackDao: java.lang.Object getTrackById(long,kotlin.coroutines.Continuation)
+com.example.database.TrackEntity: java.lang.String getCodec()
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType valueOf(java.lang.String)
+androidx.compose.ui.graphics.Path$Direction: androidx.compose.ui.graphics.Path$Direction[] values()
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: void createAllTables(androidx.sqlite.SQLiteConnection)
+androidx.room.RoomDatabase: java.lang.Object getTypeConverter(java.lang.Class)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: androidx.compose.ui.graphics.BlendModeColorFilter createBlendModeColorFilter(android.graphics.BlendModeColorFilter)
+androidx.compose.ui.graphics.TileModeVerificationHelper: android.graphics.Shader$TileMode getFrameworkTileModeDecal()
+androidx.media.app.NotificationCompat$Api21Impl: void setShowActionsInCompactView(android.app.Notification$MediaStyle,int[])
+androidx.room.RoomDatabase: android.database.Cursor query(androidx.sqlite.db.SupportSQLiteQuery,android.os.CancellationSignal)
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.view.DisplayCutoutCompat getDisplayCutout()
+androidx.compose.ui.platform.AndroidComposeView: kotlin.coroutines.CoroutineContext getCoroutineContext()
+androidx.compose.foundation.text.input.internal.undo.TextEditType: androidx.compose.foundation.text.input.internal.undo.TextEditType valueOf(java.lang.String)
+androidx.compose.material3.SheetValue: androidx.compose.material3.SheetValue valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeViewAccessibilityDelegateCompat$Api29Impl: void addPageActions(androidx.core.view.accessibility.AccessibilityNodeInfoCompat,androidx.compose.ui.semantics.SemanticsNode)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState[] values()
+androidx.compose.ui.platform.actionmodecallback.MenuItemOption: androidx.compose.ui.platform.actionmodecallback.MenuItemOption[] values()
+androidx.room.RoomDatabase: java.util.concurrent.Executor getTransactionExecutor()
+androidx.compose.material3.internal.TextFieldType: androidx.compose.material3.internal.TextFieldType[] values()
+com.example.database.PlaylistEntity: long getId()
+com.example.widgets.FullControlsWidgetProvider$Companion: void updateAllWidgets(android.content.Context,com.example.model.Track,boolean)
+com.example.database.PlaybackDao: java.lang.Object setFavorite(long,boolean,kotlin.coroutines.Continuation)
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.LayoutNode getRoot()
+com.example.database.AppDatabase_Impl: com.example.database.PlaybackDao playbackDao()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performJoinOrSplitGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.JoinOrSplitGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+coil.size.Precision: coil.size.Precision[] values()
+androidx.core.app.NotificationCompat$Style$Api24Impl: void setChronometerCountDown(android.widget.RemoteViews,int,boolean)
+android.support.v4.media.RatingCompat$Api19Impl: boolean hasHeart(android.media.Rating)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+android.support.v4.media.RatingCompat$Api19Impl: float getPercentRating(android.media.Rating)
+androidx.compose.ui.platform.AndroidComposeView: void setCoroutineContext(kotlin.coroutines.CoroutineContext)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.unit.LayoutDirection getParentLayoutDirection()
+com.example.model.Track: long getDurationMs()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ClipboardManager getClipboardManager()
+com.example.model.PlaybackState: long component3()
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: float getFillAlpha()
+androidx.room.EntityInsertAdapter: long insertAndReturnId(androidx.sqlite.SQLiteConnection,java.lang.Object)
+androidx.compose.material3.tokens.ColorSchemeKeyTokens: androidx.compose.material3.tokens.ColorSchemeKeyTokens[] values()
+androidx.compose.foundation.MutatePriority: androidx.compose.foundation.MutatePriority[] values()
+androidx.compose.ui.text.android.StaticLayoutFactory23: android.text.StaticLayout create(androidx.compose.ui.text.android.StaticLayoutParams)
+com.example.database.TrackEntity: int getBitsPerSample()
+com.example.database.PlaylistTrackCrossRef: long component1()
+com.example.playback.PlaybackService: kotlin.jvm.functions.Function0 getOnNext()
+androidx.core.view.WindowInsetsCompat$BuilderImpl: void setSystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax: androidx.compose.ui.layout.MeasuringIntrinsics$IntrinsicMinMax[] values()
+com.example.widgets.FullControlsWidgetProvider: void onReceive(android.content.Context,android.content.Intent)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: void setScaleY(float)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup: float getRotation()
+androidx.compose.animation.core.AnimationEndReason: androidx.compose.animation.core.AnimationEndReason valueOf(java.lang.String)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setMediaId(android.media.MediaDescription$Builder,java.lang.String)
+com.example.database.AppDatabase_Impl$createOpenDelegate$_openDelegate$1: androidx.room.RoomOpenDelegate$ValidationResult onValidateSchema(androidx.sqlite.SQLiteConnection)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.input.TextInputService getTextInputService()
+com.example.database.TrackEntity: TrackEntity(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String)
+androidx.compose.ui.window.PopupLayout: androidx.compose.ui.window.PopupPositionProvider getPositionProvider()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: java.lang.String getMediaId(android.media.MediaDescription)
+androidx.room.RoomDatabase: void init(androidx.room.DatabaseConfiguration)
+androidx.compose.ui.platform.MotionEventVerifierApi29: boolean isValidMotionEvent(android.view.MotionEvent,int)
+androidx.core.view.WindowInsetsCompat$BuilderImpl: WindowInsetsCompat$BuilderImpl()
+com.example.model.PlaybackState: java.lang.String getSelectedPresetName()
+androidx.core.view.WindowInsetsCompat$Impl: void setOverriddenInsets(androidx.core.graphics.Insets[])
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.text.font.Font$ResourceLoader getFontLoader()
+androidx.lifecycle.LifecycleDispatcher$DispatcherActivityCallback: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath: void setStrokeWidth(float)
+com.example.model.EqualizerBand: com.example.model.EqualizerBand copy$default(com.example.model.EqualizerBand,short,int,short,short,short,int,java.lang.Object)
+com.example.database.PlaybackDao_Impl: java.lang.Object deleteDemoTracks(kotlin.coroutines.Continuation)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: ProcessLifecycleOwner$attach$1$onActivityPreCreated$1(androidx.lifecycle.ProcessLifecycleOwner)
+com.example.model.Track: java.lang.String component15()
+com.example.model.Playlist: long getId()
+com.example.model.EqualizerBand: short component1()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void performInsertionOnLegacyTextField(int,java.lang.String,kotlin.jvm.functions.Function1)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.ViewLayerContainer: void dispatchGetDisplayList()
+androidx.emoji2.text.EmojiCompatInitializer: EmojiCompatInitializer()
+androidx.compose.ui.platform.AndroidComposeView: long getLastMatrixRecalculationAnimationTime$ui_release()
+androidx.compose.ui.autofill.AutofillApi26Helper: java.lang.CharSequence textValue(android.view.autofill.AutofillValue)
+com.example.database.PlaybackDao_Impl: kotlinx.coroutines.flow.Flow getAllTracks()
+com.example.model.PlaybackState: java.util.List component14()
+androidx.core.view.WindowInsetsCompat$Impl20: boolean isRound()
+androidx.compose.ui.window.PopupLayout: void setPositionProvider(androidx.compose.ui.window.PopupPositionProvider)
+androidx.compose.ui.platform.AndroidComposeView: void setLayoutDirection(androidx.compose.ui.unit.LayoutDirection)
+androidx.compose.animation.EnterExitState: androidx.compose.animation.EnterExitState[] values()
+com.example.database.TrackEntity: long component10()
+com.example.model.EqualizerBand: int getCenterFrequencyHz()
+com.example.ui.ReceiverTab: com.example.ui.ReceiverTab valueOf(java.lang.String)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performRemoveSpaceGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.RemoveSpaceGesture,androidx.compose.ui.text.AnnotatedString,androidx.compose.ui.platform.ViewConfiguration,kotlin.jvm.functions.Function1)
+androidx.compose.ui.platform.AndroidComposeViewVerificationHelperMethodsO: void focusable(android.view.View,int,boolean)
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setMandatorySystemGestureInsets(androidx.core.graphics.Insets)
+androidx.compose.ui.graphics.BlendModeColorFilterHelper: android.graphics.BlendModeColorFilter BlendModeColorFilter-xETnrds(long,int)
+androidx.lifecycle.ProcessLifecycleOwner$attach$1$onActivityPreCreated$1: void onActivityPostStarted(android.app.Activity)
+androidx.profileinstaller.ProfileInstallReceiver: ProfileInstallReceiver()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.contentcapture.AndroidContentCaptureManager getContentCaptureManager$ui_release()
+androidx.compose.ui.platform.coreshims.ContentCaptureSessionCompat$Api34Impl: void notifyViewsAppeared(android.view.contentcapture.ContentCaptureSession,java.util.List)
+androidx.media.AudioAttributesCompatParcelizer: androidx.media.AudioAttributesCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityPaused(android.app.Activity)
+androidx.compose.ui.autofill.AutofillApi26Helper: void setAutofillType(android.view.ViewStructure,int)
+com.example.database.AppDatabase_Impl: androidx.room.RoomOpenDelegate createOpenDelegate()
+androidx.compose.ui.unit.LayoutDirection: androidx.compose.ui.unit.LayoutDirection valueOf(java.lang.String)
+androidx.lifecycle.EmptyActivityLifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult[] values()
+com.example.database.PlaybackDao_Impl$3: void bind(androidx.sqlite.SQLiteStatement,java.lang.Object)
+androidx.compose.ui.platform.coreshims.ViewStructureCompat$Api23Impl: void setContentDescription(android.view.ViewStructure,java.lang.CharSequence)
+com.example.widgets.QueueWidgetProvider$Companion: android.app.PendingIntent getPendingBroadcast(android.content.Context,java.lang.String,int)
+androidx.compose.material3.SliderComponents: androidx.compose.material3.SliderComponents[] values()
+androidx.compose.material3.SliderComponents: androidx.compose.material3.SliderComponents valueOf(java.lang.String)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.WindowInfo getWindowInfo()
+androidx.core.view.WindowInsetsCompat$Impl21: void setStableInsets(androidx.core.graphics.Insets)
+com.example.widgets.ReceiverWidgetProvider: void onUpdate(android.content.Context,android.appwidget.AppWidgetManager,int[])
+androidx.core.view.WindowInsetsCompat$BuilderImpl29: void setTappableElementInsets(androidx.core.graphics.Insets)
+androidx.compose.material3.ScaffoldLayoutContent: androidx.compose.material3.ScaffoldLayoutContent valueOf(java.lang.String)
+androidx.core.view.WindowInsetsCompat$Impl30: androidx.core.graphics.Insets getInsetsIgnoringVisibility(int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectGesture(androidx.compose.foundation.text.LegacyTextFieldState,android.view.inputmethod.SelectGesture,androidx.compose.foundation.text.selection.TextFieldSelectionManager,kotlin.jvm.functions.Function1)
+androidx.core.view.WindowInsetsCompat$Impl: boolean equals(java.lang.Object)
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.node.OwnerSnapshotObserver getSnapshotObserver()
+androidx.media.AudioAttributesCompat: AudioAttributesCompat()
+androidx.compose.ui.focus.FocusStateImpl: androidx.compose.ui.focus.FocusStateImpl[] values()
+com.example.database.TrackEntity: java.lang.String getTitle()
+com.example.database.PlaylistTrackCrossRef: boolean equals(java.lang.Object)
+androidx.compose.foundation.text.selection.CrossStatus: androidx.compose.foundation.text.selection.CrossStatus[] values()
+android.support.v4.media.session.PlaybackStateCompat$Api21Impl: android.media.session.PlaybackState build(android.media.session.PlaybackState$Builder)
+androidx.compose.ui.autofill.AutofillCallback: void register(androidx.compose.ui.autofill.AndroidAutofill)
+androidx.compose.ui.platform.AndroidComposeView: void setFontFamilyResolver(androidx.compose.ui.text.font.FontFamily$Resolver)
+androidx.core.view.WindowInsetsCompat$Impl29: WindowInsetsCompat$Impl29(androidx.core.view.WindowInsetsCompat,androidx.core.view.WindowInsetsCompat$Impl29)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: android.media.MediaDescription$Builder createBuilder()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setSubtitle(android.media.MediaDescription$Builder,java.lang.CharSequence)
+androidx.compose.ui.autofill.AutofillApi23Helper: android.view.ViewStructure newChild(android.view.ViewStructure,int)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: void previewDeleteRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.DeleteRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+com.example.model.Track: long getId()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+androidx.activity.Api34Impl: float progress(android.window.BackEvent)
+com.example.database.PlaybackDao: java.lang.Object deleteDemoTracks(kotlin.coroutines.Continuation)
+androidx.room.RoomDatabase: void beginTransaction()
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: java.lang.CharSequence getSubtitle(android.media.MediaDescription)
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: int performSelectRangeGesture(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.SelectRangeGesture,androidx.compose.foundation.text.input.internal.TextLayoutState)
+androidx.compose.foundation.text.HandleState: androidx.compose.foundation.text.HandleState valueOf(java.lang.String)
+android.support.v4.media.MediaDescriptionCompat$Api21Impl: void setTitle(android.media.MediaDescription$Builder,java.lang.CharSequence)
+com.example.database.AppDatabase_Impl: androidx.room.InvalidationTracker createInvalidationTracker()
+com.example.database.PlaybackDao_Impl: long insertPlaylist$lambda$1(com.example.database.PlaybackDao_Impl,com.example.database.PlaylistEntity,androidx.sqlite.SQLiteConnection)
+androidx.compose.ui.platform.AndroidComposeView: kotlin.jvm.functions.Function1 getConfigurationChangeObserver()
+androidx.compose.ui.platform.AndroidComposeView: androidx.compose.ui.platform.ViewConfiguration getViewConfiguration()
+androidx.core.view.WindowInsetsCompat$BuilderImpl30: WindowInsetsCompat$BuilderImpl30()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.compose.foundation.text.input.internal.HandwritingGestureApi34: boolean previewHandwritingGesture$foundation_release(androidx.compose.foundation.text.input.internal.TransformedTextFieldState,android.view.inputmethod.PreviewableHandwritingGesture,androidx.compose.foundation.text.input.internal.TextLayoutState,android.os.CancellationSignal)
+androidx.compose.ui.focus.CustomDestinationResult: androidx.compose.ui.focus.CustomDestinationResult valueOf(java.lang.String)
+com.example.model.Track: java.lang.String getArtist()
+com.example.database.PlaylistTrackCrossRef: com.example.database.PlaylistTrackCrossRef copy$default(com.example.database.PlaylistTrackCrossRef,long,long,int,int,java.lang.Object)
+androidx.core.view.WindowInsetsCompat$Impl20: void copyRootViewBounds(android.view.View)
+androidx.room.EntityInsertAdapter: void insert(androidx.sqlite.SQLiteConnection,java.lang.Object)
+com.example.database.PlaybackDao_Impl$1: PlaybackDao_Impl$1()
+com.example.ui.effects.CinematicProfile: com.example.ui.effects.CinematicProfile[] values()
+androidx.core.view.WindowInsetsCompat$Impl: androidx.core.graphics.Insets getInsets(int)
+androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName: androidx.sqlite.db.framework.FrameworkSQLiteOpenHelper$OpenHelper$CallbackName[] values()
+androidx.core.view.WindowInsetsCompat$BuilderImpl20: WindowInsetsCompat$BuilderImpl20()
+com.example.model.Track: com.example.model.Track copy(long,java.lang.String,java.lang.String,java.lang.String,long,java.lang.String,java.lang.String,boolean,int,long,java.lang.String,int,int,int,java.lang.String,java.lang.String)
+com.example.model.Playlist: long component1()
+androidx.core.view.WindowInsetsCompat$Impl20: androidx.core.graphics.Insets getInsetsForType(int,boolean)
+androidx.compose.ui.text.android.StaticLayoutFactory28: void setUseLineSpacingFromFallbacks(android.text.StaticLayout$Builder,boolean)
+androidx.compose.ui.text.android.CanvasCompatQ: void drawColor(android.graphics.Canvas,int,android.graphics.BlendMode)
+com.example.database.PlaybackDao_Impl: java.lang.Object addTrackToPlaylist(com.example.database.PlaylistTrackCrossRef,kotlin.coroutines.Continuation)
+com.example.database.PlaybackDao_Impl$4: void bind(androidx.sqlite.SQLiteStatement,java.lang.Object)
+androidx.compose.ui.autofill.AutofillApi26Helper: boolean isList(android.view.autofill.AutofillValue)
+androidx.compose.ui.platform.AndroidComposeView: boolean getHasPendingMeasureOrLayout()

@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "com.example.app-release-58:/drawable-v21_notification_action_background.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_pause.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_pause.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_notification_bg_low.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_next.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_next.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/xml_widget_full_controls_info.xml.flat",
+        "source": "com.example.app-main-59:/xml/widget_full_controls_info.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_bg_widget_queue_item.xml.flat",
+        "source": "com.example.app-main-59:/drawable/bg_widget_queue_item.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_media_action.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_bg_widget_btn.xml.flat",
+        "source": "com.example.app-main-59:/drawable/bg_widget_btn.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_notification_bg.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_media_cancel_action.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_ffwd.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_ffwd.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notification_oversize_large_icon_bg.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notification_oversize_large_icon_bg.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_favorite.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_favorite.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_decline.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_decline.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_repeat.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_repeat.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_ime_secondary_split_test_activity.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_album_jazz_lounge_1785694817014.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/album_jazz_lounge_1785694817014.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/color_vector_tint_theme_color.xml.flat",
+        "source": "com.example.app-ui-release-51:/color/vector_tint_theme_color.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_rewind.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_rewind.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_ime_base_split_test_activity.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_lines_media.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/xml_widget_queue_info.xml.flat",
+        "source": "com.example.app-main-59:/xml/widget_queue_info.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_part_time.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_media.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_album_vacuum_tube_1785694946393.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/album_vacuum_tube_1785694946393.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_album_tokyo_synth_1785694886945.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/album_tokyo_synth_1785694886945.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/xml_receiver_widget_info.xml.flat",
+        "source": "com.example.app-main-59:/xml/receiver_widget_info.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout-v21_notification_action.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_favorite_border.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_favorite_border.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_studio.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_studio.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_media_custom.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_prev.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_prev.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/color_vector_tint_color.xml.flat",
+        "source": "com.example.app-ui-release-51:/color/vector_tint_color.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_part_chronometer.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_bg_widget_display_box.xml.flat",
+        "source": "com.example.app-main-59:/drawable/bg_widget_display_box.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_custom_dialog.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_widget_full_controls_layout.xml.flat",
+        "source": "com.example.app-main-59:/layout/widget_full_controls_layout.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/xml_backup_rules.xml.flat",
+        "source": "com.example.app-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_widget_queue_layout.xml.flat",
+        "source": "com.example.app-main-59:/layout/widget_queue_layout.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_widget_play.xml.flat",
+        "source": "com.example.app-main-59:/drawable/ic_widget_play.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_img_app_icon_1785693653769.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/img_app_icon_1785693653769.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_album_analog_test_1785694745318.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/album_analog_test_1785694745318.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_notification_icon_background.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_big_media_custom.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_answer.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_big_media.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.app-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_notification_tile_bg.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_answer_low.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_bg_widget_receiver_panel.xml.flat",
+        "source": "com.example.app-main-59:/drawable/bg_widget_receiver_panel.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_answer_video_low.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_img_brushed_aluminum_1785693704077.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/img_brushed_aluminum_1785693704077.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_decline_low.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_decline_low.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_img_vinyl_disc_1785693778020.jpg.flat",
+        "source": "com.example.app-main-59:/drawable/img_vinyl_disc_1785693778020.jpg"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_ic_call_answer_video.xml.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_widget_receiver_layout.xml.flat",
+        "source": "com.example.app-main-59:/layout/widget_receiver_layout.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable_abc_vector_test.xml.flat",
+        "source": "com.example.app-appcompat-resources-1.6.1-2:/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.app-release-58:/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "com.example.app-core-1.15.0-9:/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.example.app-release-58:/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "com.example.app-media-1.7.0-11:/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "com.example.app-release-58:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.app-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
